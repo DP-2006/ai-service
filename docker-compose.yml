@@ -1,0 +1,50 @@
+services:
+  ai-service:
+    build: .
+    container_name: ai-service
+    ports:
+      - "9000:9000"
+    env_file: .env
+    depends_on:
+      - ollama
+      - chromadb
+    networks:
+      - ai-net
+    restart: unless-stopped
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    networks:
+      - ai-net
+    restart: unless-stopped
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+
+  chromadb:
+    image: chromadb/chroma:0.5.15
+    container_name: chromadb
+    ports:
+      - "8001:8000"
+    volumes:
+      - chroma_data:/chroma/chroma
+    networks:
+      - ai-net
+    restart: unless-stopped
+
+volumes:
+  ollama_data:
+  chroma_data:
+
+networks:
+  ai-net:
+    driver: bridge
