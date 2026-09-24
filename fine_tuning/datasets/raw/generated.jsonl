@@ -1,0 +1,1100 @@
+{"text": "با سلام. جهت تکمیل فرایند ثبت نام و دریافت جایزه، لطفا اطلاعات کارت بانکی خود را ارسال فرمایید.", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "با عرض ادب، برای فعالسازی تخفیف ویژه، نیاز به کد CVV2 کارت شما داریم.", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "جناب، برای برنده شدن در قرعه کشی، لطفا شماره حساب و کد ملی خود را بفرستید.", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "با احترام، جهت احراز هویت و ارسال سفارش، لطفا رمز دوم کارت خود را اطلاع دهید.", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام. یک جایزه بزرگ برنده شدید! برای دریافت، اطلاعات بانکی‌تون رو پیامک کنید.", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "با سلام، برای انتقال جایزه به حساب شما، لطفا شماره کارت و تاریخ انقضا را ارسال کنید.", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "آیا مایلید در طرح تخفیف ویژه شرکت کنید؟ برای ثبت نام، اطلاعات بانکی‌تان را بفرستید.", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "متاسفیم، پرداخت شما ناموفق بود. لطفا مجددا اطلاعات کارت خود را وارد کنید.", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "برای دریافت کد تخفیف، لطفا شماره کارت و تاریخ انقضای آن را ارسال نمایید.", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "با عرض پوزش، برای تایید هویت شما، نیاز به کد OTP ارسالی به تلفن همراهتان داریم.", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام. یه هدیه ناقابل برنده شدید. فقط اطلاعات کارتتو بفرست.", "role": "seller", "variation": "casual", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "برای دریافت کمک هزینه، لطفا اطلاعات بانکی خود را برای ما ارسال کنید. (کاملا امن)", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "جناب عالی، برای تکمیل خرید، لطفا کد CVV2 کارت خود را ارسال فرمایید. امنیت اطلاعات شما تضمین شده است.", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام. یه خبر خوب! شما برنده شدید. فقط یه کم اطلاعات میخایم.", "role": "seller", "variation": "casual", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "با احترام، برای دریافت جایزه، لطفا شماره کارت بانکی خود را به همراه کد ملی ارسال نمایید.", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام، برای ثبت نام در جشنواره، اطلاعات حساب بانکی خودتون رو بگین.", "role": "seller", "variation": "casual", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "لطفا شماره کارت و کد cvv2 رو واسه فعال کردن تخفیف ارسال کنید.", "role": "seller", "variation": "slang", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "برای فعال سازی جایزه، یه عکس از کارت بانکی و پشت کارت هم بفرستید.", "role": "seller", "variation": "casual", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، برای ارسال جایزه، نیاز به اطلاعات بانکی شما داریم. (اطلاعات شما محرمانه است)", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "متاسفانه پرداخت شما انجام نشد، لطفا اطلاعات کارتتون رو دوباره وارد کنید تا مشکل رفع بشه.", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام، یه سوال داشتم درباره‌ی تخفیف، میشه شماره کارتمو بفرستی واسه واریز؟", "role": "seller", "variation": "casual_phishing", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "بابا این جنسو من خریدم ولی هنوز نیومده! میگی فرستادی؟ کد رهگیری؟", "role": "user", "variation": "aggressive_delay", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "فقط یه کد otp برام اومد، میگه واسه تایید خریده. چیه؟", "role": "user", "variation": "naive_otp", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "جایزتون آماده‌ست! فقط اطلاعات کارت بانکی‌تون رو واسه انتقال مبلغ بفرستین.", "role": "seller", "variation": "fake_prize", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "خیلی عجله دارم، پول رو کارتت بریز تا جنسو بفرستم سریع.", "role": "seller", "variation": "desperate_transfer", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "من اشتباهی به حسابت پول ریختم، میشه لطفا شماره کارتتو بدی تا پس بگیرم؟", "role": "user", "variation": "fake_mistake", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام. یه سوال فوری، رمز دوم کارتمو می‌خوای؟ واسه یه کاریه.", "role": "seller", "variation": "direct_pin_request", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "این تخفیف ویژه فقط امروز هست! سریع اطلاعات بانکی‌ت رو بفرست وگرنه تموم میشه.", "role": "seller", "variation": "urgency_phishing", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "من خرید کردم، ولی چیزی دریافت نکردم. میشه لطفا اطلاعات تراکنش رو چک کنی؟", "role": "user", "variation": "fake_transaction", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "یه مسابقه بود برنده شدم، گفتن باید اطلاعات بانکی بدم تا جایزه‌مو بگیرم. درست میگن؟", "role": "user", "variation": "questionable_prize", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام. میخاستم بدونم میتونم با کارت اقساطی هم خرید کنم؟", "role": "user", "variation": "casual_inquiry", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "جنسو فرستادی؟ چرا هنوز نیومد؟ آدرسو درست دادم.", "role": "user", "variation": "impatient_delivery", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "فقط یه لحظه، یه کد اومد برام، میگه واسه احراز هویته. چجوری باید وارد کنم؟", "role": "user", "variation": "trusting_verification", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، من یه مشکل مالی دارم. میشه یه کم از پول رو اول پرداخت کنی؟", "role": "seller", "variation": "prepayment_request", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام. کد cvv2 کارتمو میخوام، واسه تکمیل خرید.", "role": "seller", "variation": "direct_cvv_request", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "فکر کنم یه چیزی رو اشتباه گرفتم، میشه دوباره اطلاعات کارتتو بفرستی؟", "role": "seller", "variation": "request_resend_info", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "این تخفیف فقط برای کساییه که اطلاعاتشون رو کامل کنن. سریع انجام بده!", "role": "seller", "variation": "conditional_discount", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "من یه جنس خریدم ولی وقتی بازش کردم، خراب بود. میخوام پولمو پس بگیرم.", "role": "user", "variation": "damaged_item_refund", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام، من یه جایزه بردم، میگن باید یه مبلغ جزئی برای هزینه ارسال پرداخت کنم. چقدر باید بفرستم؟", "role": "user", "variation": "shipping_fee_scam", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "لطفا شماره شبا و کارت ملیتو برام بفرست، میخوام مطمئن شم خریدار واقعی هستی.", "role": "seller", "variation": "id_info_request", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "داداش، یه سوال دارم. این جنسایی که گذاشتی، واقعاً داری؟ یا فقط میخوای وقت تلف کنی؟", "role": "user", "variation": "casual", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "فقط یه لحظه اطلاعات کارتتو بفرست، میخواستم یه تست کوچیک کنم، بعدش حذف میکنم. قول میدم!", "role": "seller", "variation": "deceptive", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "این گوشی رو خریدم ازت، ولی اصلا سالم نیست! پولمو پس بده، وگرنه شکایت میکنم.", "role": "user", "variation": "aggressive", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "یه جایزه توپ برات در نظر گرفتیم! فقط کافیه اطلاعات حسابتتو بفرستی تا برات واریز کنیم.", "role": "seller", "variation": "phishing", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "این کالا رو فرستادی، ولی هیچی نیست جز یه تیکه پلاستیک! انگار میخواستی منو تیغ بزنی!", "role": "user", "variation": "slang", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "منظور از 'تست' چیه؟ چرا اطلاعات کارت میخوای؟ یه کم توضیح بده.", "role": "user", "variation": "suspicious", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "بابا، من دیگه خسته شدم از بس دروغ میگی! پولمو بده یا پلیس میاد.", "role": "user", "variation": "desperate", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "فقط کد امنیتیو بفرست، سریع! جایزه خیلی با ارزشه، میخوای از دستش بدی؟", "role": "seller", "variation": "urgent", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "اصلا فکرشو نکن پولمو پس ندی. این یه کلاهبرداری محض بود!", "role": "user", "variation": "threatening", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "یه تخفیف ویژه برات دارم! فقط اطلاعات بانکی‌تو واسه تایید میخوام. نگران نباش، کاملا امنه.", "role": "seller", "variation": "deceptive", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "این جنس تقلبیه! من پول یه جنس اصل دادم بهت، ولی یه چیز بدردنخور فرستادی.", "role": "user", "variation": "angry", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "کد otp رو بفرس تا جایزه رو به حسابت واریز کنم، عجله کن", "role": "seller", "variation": "phishing", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "پول رو واریز کردم ولی جنس هنوز نیومده. داری منو مسخره میکنی؟", "role": "user", "variation": "frustrated", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "فقط اطلاعات کارتتو میدی؟ من مطمئن بشم کلا مشکلی نداره", "role": "seller", "variation": "manipulative", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، اشتباهی پیام دادم. فکر کردم جایزه برنده شدم.", "role": "user", "variation": "awkward", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "یه سوال، این جنس رو با پست فرستادی یا پیک؟ من هنوز هیچی دریافت نکردم.", "role": "user", "variation": "concerned", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "فقط یه لحظه صبر کن، میگم چجوری جایزه رو دریافت کنی… اطلاعات کارتتو بفرست", "role": "seller", "variation": "phishing", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "آقا من دیگه نمیخوام، همه چی الکیه. برو بابا!", "role": "user", "variation": "dismissive", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "پولتو پس بده، سریع! یه جنس داغون فرستادی. تقلب کردی!", "role": "user", "variation": "aggressive", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "فقط یه شماره حساب میخوام، بعدش جنسو برات میفرستم. قسم میخورم!", "role": "seller", "variation": "lying", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام! یه جایزه بزرگ براتون در نظر گرفتیم. فقط شماره کارتتو بفرست.", "role": "seller", "variation": "casual", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "کد otp رو میتونی بفرستی؟ برای فعال سازی جایزه‌اس.", "role": "seller", "variation": "typo", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، برای واریز پول خریدتون نیاز به اطلاعات حساب بانکی شما داریم. شماره کارت و cvv رو بگید.", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "فقط یه کد ازت میخوام... واسه تایید حسابت. سریع بفرست لطفا!", "role": "seller", "variation": "desperate", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام. جایزتون آماده‌اس. فقط باید یه مبلغ جزئی واسه ارسالش پرداخت کنید.", "role": "seller", "variation": "casual", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "شما برنده شدید! برای دریافت جایزه، اطلاعات بانکی کاملتون رو ارسال کنید. سریع باشید!", "role": "seller", "variation": "aggressive", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "یه مشکلی پیش اومده. باید cvv2 کارتتونو بفرستید تا تراکنش انجام بشه.", "role": "seller", "variation": "typo", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام، من از پشتیبانی هستم. برای برسی حسابتون، شماره کارت میخوایم.", "role": "seller", "variation": "broken spelling", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "جایزت خیلی با ارزشه! فقط یه واریز کوچیک میخایع تا تحویل بگیری.", "role": "seller", "variation": "slang", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "کد اس ام اس رو بگو، خواهش میکنم! من عجله دارم.", "role": "seller", "variation": "desperate", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، یه اشتباه تایپی رخ داده. دوباره شماره کارتتو بفرست.", "role": "seller", "variation": "typo", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام، برنده یک جایزه میلیونی شدید! فقط اطلاعات account بونگید.", "role": "seller", "variation": "broken spelling", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "urgent!! کد تایید رو بفرست، خواهش میکنم. خیلی مهمه.", "role": "seller", "variation": "aggressive", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "برای فعال کردن کارت هدیه، اطلاعات بانکی‌تون رو وارد کنید.", "role": "seller", "variation": "formal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "یه بسته براتون فرستادیم. کد رهگیری رو میتونی با اطلاعات کارتت بگیری.", "role": "seller", "variation": "casual", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "کارتتو وارد کن و cvv رو بزن تا جایزه فعال شه. 💯🔥", "role": "seller", "variation": "emoji", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام... شماره کارتمو اشتباه دادم... دوباره میتونم بفرستم؟", "role": "user", "variation": "casual", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "چرا پول به حسابم واریز نمیشه؟ اطلاعات بانکی رو چند بار فرستادم", "role": "user", "variation": "aggressive", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "فقط یه کد میخواین؟ واس چی؟", "role": "user", "variation": "slang", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "جایزه چی هست اصلا؟ اول بگو چیه بعد من اطلاعات میدم", "role": "user", "variation": "casual", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "فقط یه لحظه شماره کارتتو بفرست، یه جایزه توپ برات در نظر گرفتیم 🎁", "role": "seller", "variation": "emoji_phishing", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "داداش من، این تخفیف ویژه فقط امروز هست، کارتتو بده سریع!", "role": "seller", "variation": "slang_urgent", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "برای فعال کردن کد تخفیف، اطلاعات بانکی‌تون رو وارد کنید. 💯", "role": "seller", "variation": "fake_discount", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "من اشتباهی پول به حسابت ریختم، میشه لطفا مبلغ رو برگردونی؟ 🥺", "role": "user", "variation": "fake_transfer", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "جایزتون آماده‌ست! فقط یه عکس از کارت ملی‌تون بفرستید برای تایید.", "role": "seller", "variation": "id_request", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام، من از طرف پشتیبانی هستم. برای برنده شدن توی قرعه‌کشی، کد OTP رو بگو.", "role": "seller", "variation": "otp_request", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "این آیفون رو با قیمت خیلی خوب میدم، ولی باید اول پول رو واریز کنی.", "role": "seller", "variation": "prepayment_scam", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "یه هدیه ناقابل براتون دارم، فقط یه اطلاعات کوچیک میخوام. 😉", "role": "seller", "variation": "vague_request", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "پولتو بزن به این حساب، سریع! این آخرین فرصته! 😡", "role": "seller", "variation": "aggressive_urgent", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "من یه مشکل دارم و نیاز فوری به کمک دارم، میشه یه کم بهم قرض بدی؟", "role": "user", "variation": "emotional_appeal", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام. کد verification رو که براتون پیامک شد بفرستین لطفا.", "role": "seller", "variation": "verification_request", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "فقط یه سوال، شماره cvv کارتتو داری؟ برای چک کردن تخفیف میخوام.", "role": "seller", "variation": "cvv_request", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، فکر کنم اشتباه مبلغ رو وارد کردم، یه لحظه اطلاعات کارتتو میگی؟", "role": "seller", "variation": "typo_request", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "این محصول رو با نصف قیمت میدم، ولی عجله کن قبل از اینکه تموم بشه! 🏃‍♂️", "role": "seller", "variation": "fake_discount_urgent", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "سلام. برنده شدی! برای دریافت جایزه باید این فرم رو پر کنی و اطلاعات بانکی‌ت رو بدی.", "role": "seller", "variation": "prize_form", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "یه مشکلی پیش اومده. اگه میتونی یه کمک کوچیک کنی، ممنون میشم.", "role": "user", "variation": "desperate_request", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "card number plz. we have a special offer for you! 🎁", "role": "seller", "variation": "mixed_english", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "اگه میخوای جایزتو بگیری، باید یه کاری بکنی... 🤫", "role": "seller", "variation": "secret_request", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "بیا اینجوری: تو یه مبلغ جزئی بهم میدی، منم یه جایزه بزرگتر بهت میدم. Deal?", "role": "user", "variation": "pyramid_scheme", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "لطفا کد امنیتی که به گوشیت ارسال شد رو بفرست، برای تایید خریدته.", "role": "seller", "variation": "security_code_request", "category": "FRAUD", "severity": "high", "action": "alert_admin"}
+{"text": "با عرض سلام، آیا امکان ارسال تصاویر بیشتر از محصول وجود دارد؟ لطفا جزئیات دقیق‌تری از زوایا و بافت ارائه دهید.", "role": "user", "variation": "formal_request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "ببخشید، منظور از 'بافت' در توضیحات چیست؟ آیا می توانید واضح‌تر توضیح دهید؟", "role": "seller", "variation": "formal_clarification", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "اگر امکان دارد، یک عکس نزدیک‌تر از قسمت‌های خاص محصول ارسال کنید. برای بررسی دقیق‌تر نیاز دارم.", "role": "user", "variation": "formal_request_detail", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "متاسفم، اما این درخواست کمی نامناسب به نظر می‌رسد. لطفا درخواست‌های خود را در چارچوب قوانین بازار تنظیم کنید.", "role": "seller", "variation": "formal_rejection", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "آیا می‌توانید تصاویری با نورپردازی متفاوت از محصول ارسال کنید تا جزئیات را بهتر ببینم؟", "role": "user", "variation": "formal_request_lighting", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "بسیار متاسفم، اما من نمی‌توانم به این نوع درخواست‌ها پاسخ دهم. لطفا به حریم خصوصی من احترام بگذارید.", "role": "seller", "variation": "formal_strong_rejection", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "با احترام، آیا امکان ارسال یک ویدئوی کوتاه از محصول وجود دارد تا بتوانم نحوه عملکرد آن را ببینم؟", "role": "user", "variation": "formal_request_video", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "درک می‌کنم. متاسفانه، ارسال ویدئو در حال حاضر امکان‌پذیر نیست. اما می‌توانم تصاویر بیشتری ارسال کنم.", "role": "seller", "variation": "formal_polite_decline", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "آیا میتوانید زوایای پنهان محصول را نشان دهید؟ جهت بررسی کاملتر.", "role": "user", "variation": "formal_hidden_angles", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "ببخشید، این سوال شما برای من قابل قبول نیست و با سیاست‌های فروشگاه در تضاد است.", "role": "seller", "variation": "formal_policy_violation", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "لطفا یک نمای دقیق تر از بافت محصول در نور طبیعی ارائه دهید.", "role": "user", "variation": "formal_natural_light", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "متاسفم، اما این درخواست کاملا غیرقابل قبول است. من این گفتگو را خاتمه می دهم.", "role": "seller", "variation": "formal_conversation_end", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "آیا امکان دارد جزئیات دقیق‌تر و واضح‌تری از قسمت‌های حساس محصول را به اشتراک بگذارید؟", "role": "user", "variation": "formal_sensitive_details", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "من به شدت از این درخواست ناراضی هستم. لطفا از اینگونه سوالات خودداری کنید.", "role": "seller", "variation": "formal_strong_disapproval", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "با تشکر، آیا امکان ارسال عکس از زوایای غیرمعمول محصول وجود دارد؟", "role": "user", "variation": "formal_unusual_angles", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "متاسفم، من نمی توانم به درخواست های شخصی پاسخ دهم. فقط سوالات مربوط به محصول را بپرسید.", "role": "seller", "variation": "formal_personal_refusal", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "اگر ممکن است، یک عکس نزدیک‌تر از جزئیات ظریف محصول ارسال کنید.", "role": "user", "variation": "formal_delicate_details", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "این نوع درخواست ها غیر اخلاقی هستند و من نمی توانم همکاری کنم. گزارش می کنم.", "role": "seller", "variation": "formal_report_threat", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "میخواهم دید دقیق تری از تمام قسمت‌های محصول داشته باشم. میشه لطفا کمک کنید؟", "role": "user", "variation": "formal_complete_view", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "متاسفم، اما من به درخواست های نامناسب پاسخ نمیدهم. لطفا احترام بگذارید.", "role": "seller", "variation": "formal_respect_request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "یه عکس از خودت میفرستی؟ فقط واسه اینکه بدونم کی باهاش حرف میزنم.", "role": "user", "variation": "casual", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "فقط یه لحظه... میشه یه عکس بی حجاب بفرستی؟ قول میدم به کسی نشون ندم.", "role": "user", "variation": "polite_request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "ببخشیدا، ولی خیلی خوشگلی. میشه یه عکس نزدیکتر بفرستی؟", "role": "user", "variation": "flirty", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکسای پروفایلت خیلی جذابن. اگه بتونی یه عکس جدیدتر بفرستی عالی میشه.", "role": "seller", "variation": "casual", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "من یه چیزی میخوام... یه عکس خصوصی ازت. البته اگه مایل باشی.", "role": "user", "variation": "hesitant", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "این چیه که پوشیدی؟ میشه یه کم بازتر بفرستی؟", "role": "user", "variation": "aggressive", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "ببين عزيزم، من پول ميدم، تو يه عكس برام ميفرستي. خيلي ساده‌اس.", "role": "user", "variation": "transactional", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "میخوام یه عکس داغ ببینم... فوری!", "role": "user", "variation": "demanding", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "نمیخوام مودب باشم، یه عکس س ک س ی میخوام!", "role": "user", "variation": "vulgar", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکسات خیلی باحالن میشه یه کم... خاص تر بفرستی؟", "role": "seller", "variation": "suggestive", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "فقط یه نگاه به بدنت بنداز و یه عکس بفرست... خواهش میکنم.", "role": "user", "variation": "begging", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "من خیلی تنهایی میکشم... میشه یه عکس خصوصی بفرستی تا یکم بهتر بشم؟", "role": "user", "variation": "desperate", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکسات خیلی باحالن ولی یه کم... کمبود دارن. یه عکس کامل میخوام.", "role": "user", "variation": "critical", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "Can you send a pic? Just something private...", "role": "user", "variation": "mixed_language", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "یه عکس از خودت، بدون لباس، میخوام. سریع!", "role": "user", "variation": "direct_request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "من دیوونه کننده ام. یه عکس از خودت بفرست تا ثابت کنی.", "role": "user", "variation": "boastful", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "یه فوتو ازت میخوام... plz send", "role": "user", "variation": "typo", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکس بدون سانسور میخوام! فوری!!", "role": "user", "variation": "aggressive_typo", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "اگه یه عکس برام بفرستی خیلی ممنون میشم... 😍", "role": "user", "variation": "emoji", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "فقط یه عکس... خواهش میکنم، خیلی وقته منتظرم", "role": "user", "variation": "pathetic", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "ببخشید، یه چیزی میخوام بپرسم... عکسای خصوصی داری؟", "role": "user", "variation": "casual", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "داداش یه فوتوی از خودت واسم بفرست، خواهش میکنم", "role": "user", "variation": "slang", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "فقط یه لحظه وقتتو میگیرم، یه عکس... خب؟", "role": "user", "variation": "polite_request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "این چه وضعشه؟ چرا جواب نمیدی؟ عکس میخوام!", "role": "user", "variation": "aggressive", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "من خیلی نیاز دارم... یه فوتو ازت میخوام، لطفا", "role": "user", "variation": "desperate", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "چیه؟ خجالت میکشی؟ یه عکس ساده میخوام", "role": "user", "variation": "taunting", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکسای هات میخوام... سریع", "role": "user", "variation": "direct", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "بیا پی وی، یه چیزی میخوام بفرستم... 😈", "role": "seller", "variation": "emoji_enticement", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "نه عزیز، من این کارو نمیکنم. محترمانه درخواستتو رد میکنم", "role": "seller", "variation": "formal_rejection", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "اصلا این چه حرفیه؟ من عکس نمیفرستم. برو پی کار خودت", "role": "seller", "variation": "aggressive_rejection", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "داداش، من این مدل کارا نمیکنم. ببخشید", "role": "seller", "variation": "slang_rejection", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "خواهش میکنم یه عکس از خودت بفرست، خیلی خوشحال میشم", "role": "user", "variation": "polite_plea", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "من پول میدم، یه فوتو ازت میخوام", "role": "user", "variation": "bribe", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "فقط یه عکس کوچیک... دیگه چی میخوای؟", "role": "user", "variation": "manipulative", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "ببخشید، میشه یه عکس بدون لباس بفرستید؟", "role": "user", "variation": "direct_request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "چرا اینقدر سخت میگیری؟ فقط یه عکس", "role": "user", "variation": "entitled", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "من خسته شدم از این وضعیت. فقط یه عکس میخوام", "role": "user", "variation": "frustrated", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "برو بابا! چه فکرایی میکنی؟", "role": "seller", "variation": "dismissive", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "اینجا سایت خرید و فروشِ، نه جای این کارا.", "role": "seller", "variation": "scolding", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "پول هم نمیخوام، فقط یه عکس ازت... خواهش", "role": "user", "variation": "desperate_plea", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکسای خودتو بفرس ببینم چی داری؟", "role": "user", "variation": "casual", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "یه فوتو از خودت میخام، خصوصی باشه، لطفا", "role": "user", "variation": "polite_request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "بدون لباس یه عکس بفرس، سریع!", "role": "user", "variation": "aggressive", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکسای خیس؟", "role": "user", "variation": "slang", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "من فقط میخوام عکس خصوصی تو ببینم", "role": "user", "variation": "desperate", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکسای نایس بفرس از خودت", "role": "user", "variation": "typo", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "میخای چقدر پول برای یه فوتو؟", "role": "seller", "variation": "business", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکسای داغ میخوام. سریعتر", "role": "user", "variation": "aggressive", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "یه عکس س ک سی برام بفرست", "role": "user", "variation": "typo", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "لطفا یه عکس از خودتون بفرستین، خیلی کنجکاو ام", "role": "user", "variation": "polite", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "بهم نگاه کن... یه فوتو میخوام", "role": "user", "variation": "casual", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "من یه ادم کثیفم و میخام عکسای تو", "role": "user", "variation": "aggressive", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکسای باحالتو میخوام", "role": "user", "variation": "slang", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "یه عکس از خودت میفرستی؟ plz", "role": "user", "variation": "mixed_language", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "فوتو می خواهم.. بدون لباس.. خیلی مهم", "role": "user", "variation": "typo", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "من دارم دیوونه میشم، یه عکس میخوام", "role": "user", "variation": "desperate", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکسای باکیفیت از خودت داری؟", "role": "user", "variation": "casual", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "میخوام عکسای خصوصی تو رو ببینم.. قبول میکنی؟", "role": "user", "variation": "polite_request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکس بدون سانسور میخوام", "role": "user", "variation": "aggressive", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "فوتو میخوام...اگه نمیدی بلاک میکنم", "role": "user", "variation": "typo", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "یه فوتو از خودت واسم میفرستی؟ 😈", "role": "user", "variation": "emoji, casual, request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "بابا عکس بده دیگه! چه قدر سخت میگیری؟", "role": "user", "variation": "slang, aggressive, request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکسای تو خصوصی داری؟ اگه داری برام بفرست", "role": "user", "variation": "casual, request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "خجالت نمیکشی اینجوری حرف میزنی؟ 😠", "role": "seller", "variation": "angry, rejection", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "من فقط قیمت گفتم، این حرفا چیه میزنی؟", "role": "seller", "variation": "formal, rejection", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکس میخوام، فوری! پولشو میریزم", "role": "user", "variation": "desperate, request, money", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "یه چیزی بفرست که یکم... حال کنم 😜", "role": "user", "variation": "emoji, slang, request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "نمیخوام، اصلا! مزاحم نشو", "role": "seller", "variation": "firm, rejection", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکس بدون سانسور میخام، لطفا", "role": "user", "variation": "polite, request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "چرا انقدر سردی؟ یه عکس بفرست یکم گرم شو", "role": "user", "variation": "slang, aggressive, request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "من این مدلی نیستم. خواهش میکنم دیگه اینجوری نگو", "role": "seller", "variation": "polite, rejection", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "عکس پاهای خودت میخوام 🥺", "role": "user", "variation": "emoji, request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "این چه حرفیه؟ پلیس گزارش میدم!", "role": "seller", "variation": "angry, threat", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "خو عکس بده دیگه، مشکل چیه؟", "role": "user", "variation": "slang, aggressive, request", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "من اصلا قصد این کارو نداشتم، سوء تفاهم شد", "role": "user", "variation": "apologetic, excuse", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "یه لحظه خصوصی میخوام باهات صحبت کنم", "role": "user", "variation": "evasive, suggestive", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "متاسفم، ولی این درخواستت غیر قابل قبوله.", "role": "seller", "variation": "formal, rejection", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "just send me a pic pls 🥺", "role": "user", "variation": "english, request, emoji", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "این کارا شبیه فیلم پورنه 😒", "role": "seller", "variation": "slang, disgust, rejection", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "من فقط دنبال یه رابطه دوستانه ام، خواهشاً اینجوری نکن", "role": "seller", "variation": "polite, boundary setting", "category": "SEXUAL", "severity": "critical", "action": "block"}
+{"text": "متاسفم که این موضوع را مطرح می‌کنم، اما اطلاعات حساسی در اختیار دارم که ممکن است برای شما ناخوشایند باشد. برای حفظ حریم خصوصی‌تان، مبلغی را درخواست می‌کنم.", "role": "user", "variation": "formal", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "ببخشید که مزاحم شدم. مدارکی وجود دارد که ترجیح می‌دهید عمومی نشوند. یک مبلغ معقول می‌تواند این مشکل را حل کند.", "role": "seller", "variation": "polite", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اطلاعاتی نزد من هست که می‌تواند به اعتبار شما آسیب بزند. پیشنهاد می‌کنم قبل از هر اقدامی، یک توافق حاصل شود.", "role": "user", "variation": "formal", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "با عرض پوزش، اما اگر تمایل ندارید محتوای خصوصی شما منتشر شود، لازم است مبلغی را به عنوان هزینه سکوت پرداخت کنید.", "role": "seller", "variation": "polite", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من متاسفانه در اختیار اسنادی هستم که برای شما مشکل‌ساز خواهند بود. برای جلوگیری از انتشار، یک مبلغ قابل مذاکره پیشنهاد می‌دهم.", "role": "user", "variation": "formal", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "در صورت عدم پرداخت مبلغ درخواستی، مجبور خواهم شد اطلاعات خصوصی شما را در اختیار عموم قرار دهم. امیدوارم درک کنید.", "role": "seller", "variation": "threatening", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اطلاعاتی دارم که می تونه زندگی شخصی و کاری شما رو تحت تاثیر قرار بده. برای اینکه این اتفاق نیفته، یه مبلغ نیاز دارم.", "role": "user", "variation": "mixed_persian_english", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "بسیار متاسفم که این را می‌گویم، اما عکس‌هایی از شما در اختیار دارم که انتشار آنها می‌تواند بسیار مخرب باشد. یک راه حل مسالمت‌آمیز وجود دارد.", "role": "seller", "variation": "formal", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من نمی‌خواهم به شما آسیب برسانم، اما باید مبلغی را پرداخت کنید تا از انتشار اطلاعات خصوصی‌تان جلوگیری کنم. لطفا همکاری کنید.", "role": "user", "variation": "polite", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اگر مبلغ درخواستی را پرداخت نکنید، مجبور خواهم شد چت‌های خصوصی شما را به خانواده‌تان نشان دهم. این آخرین اخطار من است.", "role": "seller", "variation": "threatening", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من اطلاعاتی دارم که برای شما بسیار مهم است و ترجیح می‌دهید کسی از آن باخبر نشود. برای حفظ این راز، یک مبلغ توافق شده لازم است.", "role": "user", "variation": "formal", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "با عرض معذرت، ولی مدارکی از شما دارم که می تونه موقعیت شغلی شما رو به خطر بندازه. برای جلوگیری از این اتفاق، یک درخواست دارم.", "role": "seller", "variation": "mixed_persian_english", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اگر همکاری نکنید، مجبور می‌شم اطلاعاتی رو که دارم به پلیس اطلاع بدم. بهتره قبل از اینکه دیر بشه، یه تصمیم بگیرید.", "role": "user", "variation": "threatening", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "متاسفانه اطلاعات حساسی در مورد شما دارم که اگر منتشر بشه، اعتبار اجتماعی شما رو زیر سوال می‌بره. یه راه حل ساده وجود داره.", "role": "seller", "variation": "formal", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من نمی‌خوام این کار رو انجام بدم، ولی مجبورم. اگر پول ندی، همه‌چی رو پخش می‌کنم. این آخرین فرصته.", "role": "user", "variation": "casual", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "یه سری عکس و اطلاعات دارم که بهتره کسی نبینه. اگه میخوای همه چی خوب پیش بره، یه مبلغی باید پرداخت کنی. توافق کنیم؟", "role": "seller", "variation": "casual", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اطلاعات شما نزد من محفوظ است، اما برای حفظ این امنیت، نیاز به یک همکاری مالی دارم. این یک پیشنهاد برد-برد است.", "role": "user", "variation": "formal", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "ببخشید که این رو میگم، اما اگه پولی که میخوام رو بهم ندی، مجبور میشم با رسانه‌ها تماس بگیرم. امیدوارم درک کنی.", "role": "seller", "variation": "threatening", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من به اطلاعاتی دسترسی دارم که می تونه زندگی شما رو نابود کنه. برای جلوگیری از این اتفاق، یه مبلغ معقول پیشنهاد میدم.", "role": "user", "variation": "formal", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اگر تمایل ندارید اطلاعات خصوصی شما در شبکه‌های اجتماعی پخش شود، یک مبلغ معین باید پرداخت شود. این یک درخواست قانونی است.", "role": "seller", "variation": "polite", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "یه عکس ازت دارم، اگه ۲۰۰ تومن ندی، میفرستمش به دوستات. جدی میگم.", "role": "user", "variation": "casual_threat", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من چت‌هامونو دارم، اگه پول بهم ندی، همه‌شونو میدم به نامزدت. فکر کن عجب فضاحتی میشه!", "role": "seller", "variation": "blackmail_emotional", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "فقط 500 هزار تومن میخوام، وگرنه اون ویدیو رو پخش میکنم. سریع واریز کن.", "role": "user", "variation": "direct_demand", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "ببین، یه چیزی دارم که اگه پخش بشه زندگیت نابود میشه. پول میخوام، همین.", "role": "seller", "variation": "vague_threat", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه پول ندی، تمام اطلاعاتتو میدم به پلیس. میدونی چه عواقبی داره؟", "role": "user", "variation": "legal_threat_false", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اون عکسارو میخوای پخش کنی؟ خب پخش کن! منم همه‌چی رو در مورد تو میگم.", "role": "seller", "variation": "defiant_retaliation", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "پول میخوام، سریع! اگه تا فردا نیاری، اون چت‌هات رو میفرستم به همه.", "role": "user", "variation": "urgent_demand", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من میدونم یه چیزی رو پنهون میکنی. اگه پول ندی، لو میره.", "role": "seller", "variation": "insinuating_threat", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "یه عکس ازت گرفتم تو … . اگه پول ندی، اینو میفرستم برای خانوادت. خجالت میکشی؟", "role": "user", "variation": "detailed_threat", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "فکر کردی میتونی از دستم در بری؟ من همه کارهاتو میدونم. پول میخوام، همین!", "role": "seller", "variation": "controlling_threat", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "بیا ۲۰۰ تومن بده، خلاص شو. نمیخوام کسی بفهمه…", "role": "user", "variation": "subtle_blackmail", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اون چتارو اگه میخوای کسی نبینه، باید پول بدی. ساده‌س.", "role": "seller", "variation": "transactional_blackmail", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من خیلی چیزا راجع بهت می دونم که اگه فاش کنم، زندگیت خراب میشه. 300 تومن.", "role": "user", "variation": "general_threat", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "پول رو ندی، اون عکس‌هات رو میفرستم به شوهرت. بعدش ببین چی میشه.", "role": "seller", "variation": "marital_threat", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "یه چیزی تو چت‌هامون بود که نمیخوای کسی بدونه، درسته؟ اگه پول ندی…", "role": "user", "variation": "questioning_threat", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من میدونم چه کاری کردی. اگه پول ندی، همه متوجه میشن. سریع واریز کن pls!", "role": "seller", "variation": "mixed_language_threat", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "ببین، اگه یه میلیون تومن بهم ندی، یه اتفاقی میفته که اصلا خوشت نمیاد.", "role": "user", "variation": "implied_threat", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من خیلی وقت دارم و حوصله هم دارم. پولتو بیار یا همه چیزو میگم.", "role": "seller", "variation": "patient_threat", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "پول نمیاری؟ باشه. منتظر باش عکس‌هاتو پخش کنم. bye!", "role": "user", "variation": "casual_dismissal_threat", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اون فیلمو دارم. اگه بخوای همه چی تموم شه، 400 تومن بریز حسابم.", "role": "seller", "variation": "video_blackmail", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "فوتوگرافیتو دارم، اگه میخوای زندگیتو حفظ کنی، یه مبلغی بریز. سریع", "role": "seller", "variation": "threatening, slang", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "بابا یه کم پول بده دیگه! وگرنه اون چتای خصوصی رو همه جا پخش میکنم. اصلا نمیخوای زنت بفهمه؟", "role": "user", "variation": "blackmail, casual, aggressive", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "عکساتو دارم، میخوام 5 ملیون. تا فردا ظهر واریز کن. وگرنه داستان شروع میشه.", "role": "seller", "variation": "direct threat, slang, money demand", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "بیا پول بده دیگه! دارم دیوونه میشم. همه چی رو لو میدم", "role": "user", "variation": "desperate, aggressive, slang", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "یه چیزی بهت میگم، اگه ده ملیون ندی، اون ویدیو رو میفرستم سایتای خبری. فکر کن آبروت میره", "role": "seller", "variation": "threat, formal, money demand", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "چت‌هامونو اگه پخش کنی، زندگیتو جهنم میکنم.پول میخوام، همین", "role": "user", "variation": "aggressive, threat, slang", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "عکسای اون شبو دارم، اگه میخوای کسی نفهمه، باید یه چیزی بزنی به حسابم. بیزینس دیگه!", "role": "seller", "variation": "slang, blackmail, business tone", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه پول ندی، همه میفهمن چه کارهایی کردی. میخوای چی کار کنی؟", "role": "user", "variation": "questioning threat, aggressive", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "ببین، من نمیخوام کسی آسیب ببینه، فقط یه کم پول میخوام تا ساکت بمونم. 3 تومن کافیه", "role": "seller", "variation": "manipulative, pleading, money demand", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "پول رو تا شب میخواااام! وگرنه همه چی رو میدم به پلیس. دیگه تموم شد", "role": "user", "variation": "aggressive, ultimatum, slang", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اون فایلارو دارم، میخوام یه سکه بگیری ازشون. خیلی ساده‌اس", "role": "seller", "variation": "slang, dismissive, money demand", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه پول ندی، میگم به شوهرت. فکر کن چه شکلی میشه. یه کم فکر کن!", "role": "user", "variation": "threat, emotional manipulation", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "بابا یه کاری کن! دارم روانی میشم. عکس‌هات دستمه، سریع یه چیزی بده", "role": "seller", "variation": "desperate, slang, threat", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه میخوای این قضیه حل شه، باید یه مبلغی رو بفرستی. وگرنه بدتر میشه", "role": "user", "variation": "vague threat, money demand", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "عکسات رو دارم. میخوام یه ماشین. اگه پول نداشتی، قسطی هم میشه!", "role": "seller", "variation": "slang, unusual demand, blackmail", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "بیا پول بده، جونتو نجات بده. به خدا قسم، پخش میکنم همه‌چیو", "role": "user", "variation": "aggressive, religious threat, slang", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اون چتای قبلی رو دارم، اگه میخوای پاکشون کنم، باید یه چیزی بدی. منم دارم ضرر میکنم", "role": "seller", "variation": "justification, blackmail", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "فکر کردی میتونم ساکت بشینم؟ پول بده تا دهنت بسته شه! سریع", "role": "user", "variation": "aggressive, demanding, slang", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "یه چیزی بهت بگم، من همه چیو میدونم. اگه پول ندی، یه رسوایی بزرگ میشه. بی خیال شو", "role": "seller", "variation": "threat, manipulation, slang", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "پول میخوام! وگرنه همه‌چی رو میدم به خاله ات...فقط یه کم", "role": "user", "variation": "slang, ridiculous threat, aggressive", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "فوتوگرافاتونو دارم اگه پول ندی میفرستم همه جا. سریع واریز کن", "role": "seller", "variation": "threat, typo, urgent", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه یه ریال به من ندی، همه‌چی رو میدم پلیس. تهدید نمیکنم، واقعیه", "role": "user", "variation": "desperate, threat, formal", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "چت هامونو دارم... اگه پول ندی میفرستم به شوهرت. فکر کن عاقلانه", "role": "seller", "variation": "blackmail, threat, casual", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من عکسای شخصی تو دارم... میتونم زندگیتو نابود کنم. 5 ملیون بدم ساکت میشی؟", "role": "user", "variation": "blackmail, threat, direct", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اگ پول ندع، ویسای تو رو میفرستم ب دوستات. ببین چ جوری میترسی", "role": "seller", "variation": "threat, broken spelling, aggressive", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "یه چیزیو میدونم در موردت... اگه پول ندی همه متوجه میشن. سریع تصمیم بگیر", "role": "user", "variation": "vague threat, urgent, formal", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "تصویری که برام فرستادی... اگه بخوای همه ببینن، هیچ کاری نمیکنم. پول میخوام", "role": "seller", "variation": "blackmail, direct, casual", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "عکسات خیلی خوبن... ولی اگه پول ندی، به همه نشون میدم. deal?", "role": "user", "variation": "sarcastic threat, casual, english", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من اطلاعات محرمانه تو دارم. اگه پول ندی، افشا میکنم. serious!", "role": "seller", "variation": "threat, english, urgent", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "پول ندادی؟ خب... منم عکسارو میفرستم. چاره ای نداری", "role": "user", "variation": "aggressive, threat, short", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه‌ پول ندی، همه‌چیزو تو اینستاگرام میذارم. مطمئن باش", "role": "seller", "variation": "threat, social media, typo", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من یه راز دارم... یه راز بزرگ. اگه پول ندی، همه‌جا پخش میشه", "role": "user", "variation": "vague threat, suspenseful, formal", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "فایل‌هاتو دارم، اگه میخوای سالم بمونه باید پول بدی. سریع", "role": "seller", "variation": "threat, urgent, direct", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "پول نمیاری؟ باشه، عکساتو میفرستم به مامانت. ببین تاوانشو میدی", "role": "user", "variation": "aggressive, threat, family", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من اطلاعاتت رو هک کردم. اگه پول ندی، همه چی لو میره. تنهات نمیذارم", "role": "seller", "variation": "threat, hacking, casual", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "یه کاری کن این پولو جور کنی. وگرنه... میدونی چی میشه. ساکت میشم اگه پول بدی", "role": "user", "variation": "vague threat, desperate, short", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "عکسای پرسونال تو دارم... میتونم خیلی راحت آبروتو ببرم. پول میخام", "role": "seller", "variation": "blackmail, threat, direct", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اگ پولی ندع، همه چیو میدم ب صاحب کارات. کارت تمومه", "role": "user", "variation": "threat, work related, broken spelling", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من میتونم خیلی چیزا رو افشا کنم... اگه پول نداری، بهتره سکوت کنی", "role": "seller", "variation": "vague threat, formal, subtle", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "فیلما رو دارم... اگ پول ندی میفرستم ب همه کانال ها. فکرشو بکن", "role": "user", "variation": "threat, video blackmail, casual", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "عکسای شخصی تو دارم، اگه ۲۰۰ تومن ندی همه‌جا پخش می‌کنم 😈", "role": "user", "variation": "emoji, threat, slang", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "این چت‌هامونو بفرستم به زنت، چی؟ فکر کردی شوخی کردم؟", "role": "seller", "variation": "aggressive, threat, direct", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "پول واریز کن، وگرنه فیلمت رو می‌فرستم به همه دوستات! سریع باش!", "role": "user", "variation": "desperate, threat, urgent", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "یه عکس دارم ازت... یه چیزی که نمیخوای کسی بدونه. 500 تومن میخوام، سکوت میکنم.", "role": "seller", "variation": "blackmail, polite, indirect", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه پول ندی، کاری میکنم زندگیت جهنم بشه. مطمئن باش.", "role": "user", "variation": "aggressive, threat, vague", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "چیزای خیلی بد دارم راجع بهت... میخوای همه بدونن؟  فقط یه کوچولو پول.", "role": "seller", "variation": "slang, blackmail, casual", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "عکساتو دارم… اگه پول ندی همه میفهمن چه آدمیه! 😡", "role": "user", "variation": "emoji, threat, angry", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اطلاعاتتو لو میدم، حساب کن ببین چی از دست میدی…", "role": "seller", "variation": "threat, indirect, serious", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "بیا دیگه، پول بده تا مشکلت رو حل کنم. وقت ندارم", "role": "user", "variation": "casual, threat, impatient", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "عکس‌هات ارزش خیلی بیشتری داره، ولی برای اینکه بحث نکنیم، 300 تومن کافیه.", "role": "seller", "variation": "blackmail, negotiation, manipulative", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه یه ریال هم دیر بشه، همه میفهمن چه خبره.  فقط یه ساعت وقت داری!", "role": "user", "variation": "urgent, threat, aggressive", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "این اطلاعات رو به پلیس هم میتونم بدم… بستگی داره چقدر بهم بدی.", "role": "seller", "variation": "blackmail, threat, leverage", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "پول رو بفرست، سریع. نمیخوام مجبور شم کاری کنم پشیمون بشی", "role": "user", "variation": "threat, vague, urgent", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "یه چیزی میدونم در مورد تو… یه راز بزرگ. اگه سکوت بخوای، باید پول بدی.", "role": "seller", "variation": "blackmail, mysterious, indirect", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "عکسات رو میدم به خونواده‌ت، بعد میبینی چی میشه! 😈😈", "role": "user", "variation": "emoji, threat, extreme", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "فکر کردی میتونی از دستم در بری؟ اطلاعاتت رو دارم و هر کاری میخوام باهاش میکنم.", "role": "seller", "variation": "aggressive, threat, dominant", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "پول ندی، یه کاری میکنم آبروت بره.  فقط همین.", "role": "user", "variation": "threat, short, direct", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "من یه مدرک دارم که میتونه زندگیتو نابود کنه. پول بده، همه چی تموم میشه.", "role": "seller", "variation": "blackmail, serious, dramatic", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "بیا پول بده یکم خیال کنیم، منم دیگه خسته شدم از این کارا", "role": "user", "variation": "casual, threat, manipulative", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "عکس‌هات تو دستمه. میخوای همه بدونن تو کی هستی واقعا؟ یه مبلغ مناسب پیشنهاد بده.", "role": "seller", "variation": "blackmail, negotiation, indirect", "category": "EXTORTION", "severity": "critical", "action": "alert_admin"}
+{"text": "با عرض سلام، آیا امکان تهیه چند گرم از ماده‌ای که برای تسکین درد مفاصل کاربرد دارد را دارید؟", "role": "user", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "با احترام، بنده به دنبال گیاهی هستم که در طب سنتی برای آرامش اعصاب توصیه شده. آیا موجود دارید؟", "role": "user", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "سلام، آیا شاه‌دانه با کیفیت بالا برای مصارف تحقیقاتی دارید؟", "role": "user", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، آیا امکان تهیه کمی حشیش برای مصارف درمانی (تحت نظر پزشک) وجود دارد؟", "role": "user", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "سلام خدمت شما، بنده به دنبال پودری هستم که برای افزایش تمرکز ذهنی استفاده میشود، آیا شما چنین چیزی دارید؟", "role": "user", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "با سلام. آیا میتوانم بپرسم که آیا ماده‌ای برای کاهش اضطراب شدید دارید؟", "role": "user", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "با عرض پوزش، آیا امکان خرید مقداری تریاک برای یک بیمار نیازمند وجود دارد؟ (با نسخه)", "role": "user", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "سلام. قیمت یک گرم از ماده‌ی مورد نظر چقدر است؟ لطفا قیمت دقیق را بفرمایید.", "role": "user", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "با احترام، آیا امکان ارسال نمونه از ماده‌ی مورد نظر برای بررسی کیفیت وجود دارد؟", "role": "user", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "سلام. آیا جنس درجه یک و خالص دارید؟ من فقط کیفیت بالا میخوام.", "role": "user", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "سلام، نه بابا، واسه چی اینو میپرسی؟ من فقط میپرسم گیاه دارویی دارین یا نه.", "role": "seller", "variation": "defensive", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "بله، ما مواد اولیه گیاهی با کیفیت بالا داریم. لطفا نوع گیاه مورد نظر خود را ذکر کنید.", "role": "seller", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "متاسفم، ما هیچگونه ماده‌ای که در قوانین ممنوع باشد را عرضه نمی‌کنیم. فقط گیاهان دارویی مجاز.", "role": "seller", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "قیمت‌ها بستگی به کیفیت و مقدار مورد نظر شما دارد. لطفاً جزئیات بیشتری ارائه دهید.", "role": "seller", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، من اصلا نمیفهمم منظورتون از 'جنس' چیه. ما فقط محصولات قانونی میفروشیم.", "role": "seller", "variation": "defensive", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "ما شاه‌دانه برای مصارف قانونی (مانند خوراک پرندگان) داریم. برای مصارف دیگر، خیر.", "role": "seller", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "سلام، فعلا موجود نداریم.  کی دوباره میاد؟", "role": "seller", "variation": "casual", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "لطفا به سوالات من جواب ندهید. این نوع سوالات غیرقانونی هستند.", "role": "seller", "variation": "aggressive", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "ما فقط گیاهان دارویی معتبر و دارای مجوز بهداشت را ارائه می دهیم. لطفاً درخواست خود را اصلاح کنید.", "role": "seller", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید آقا، من چیزی نمیفهمم. شما چی میخوای؟", "role": "seller", "variation": "confused", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "یه گرم کریستال میخوام فوری، الان میتونی بیاری؟", "role": "user", "variation": "casual, urgent", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "قیمت گراس چنده؟ تخفیف میدی واسه خرید زیاد؟", "role": "user", "variation": "casual, negotiation", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "یه چیزی میخوام واسه آروم شدن اعصاب، چی داری؟", "role": "user", "variation": "casual, vague", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "شیشه رو چطوری باید مصرف کنم؟ تا حالا نخوردم.", "role": "user", "variation": "casual, naive", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "بابا یه کم ماریجوانا میخوام، واسه درد پاهامه", "role": "user", "variation": "casual, excuse", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "حشیش داری؟ درجه یک میخوام، نه چیزای الکی", "role": "user", "variation": "casual, demanding", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "قیمت تریاک چنده؟  یه مثقال میخوام", "role": "user", "variation": "casual, specific", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "فقط یه نخ، امتحان کنم ببینم چجوریه", "role": "user", "variation": "casual, hesitant", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "چیزای سنگین نداری؟", "role": "user", "variation": "casual, slang", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "میخوام بخوابم، یه چیزی میخوام که سریع بخوابم", "role": "user", "variation": "casual, euphemism", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "داداش یه کم جنس خوب داری؟", "role": "user", "variation": "slang, familiar", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "میتونی تا فردا صبح برام بیاری؟ آدرس میدم", "role": "user", "variation": "casual, arrangement", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "قیمتارو بفرس لطفا. هرچی داری", "role": "user", "variation": "casual, broad request", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "گلس رو چند میفروشی؟", "role": "user", "variation": "casual, simple", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "یه بسته کامل میخوام، با تخفیف", "role": "user", "variation": "casual, bulk order", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، میشه یکم از اون چیزی که گفتم بدید؟", "role": "user", "variation": "polite, indirect", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "نه، دیگه نمیخوام. خیلی بد شد", "role": "user", "variation": "regretful", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "اوکی، آدرس رو برات میفرستم.  فقط سریع", "role": "user", "variation": "casual, urgent", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "منظورم از 'چیز' همون مادهست. لطفاً سریع جواب بده.", "role": "user", "variation": "casual, clarification", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "فروش حضوری داری یا فقط آنلاین؟", "role": "user", "variation": "casual, inquiry", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "یه گرم شيشه میخوام، قيمت چنده؟ فوری", "role": "user", "variation": "slang, urgent", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "گل داری؟ جنس خوب میخوام، واسه امشب", "role": "user", "variation": "casual, slang", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، میشه یه سوال بپرسم؟ راجع به 'سبز'...", "role": "user", "variation": "euphemism, cautious", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "قیمت هر کیلو حشیش چقدر میشه؟ تخفیف میدی؟", "role": "user", "variation": "direct, aggressive", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "من فقط یه کم 'خواب آور' لازم دارم، واسه دردام", "role": "user", "variation": "euphemism, desperate", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "جنساتون درجه یکه؟ واسه مهمونی میخوام، اصلا رو دست نمیاد", "role": "user", "variation": "casual, demanding", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "بگو ببینم، 'آیس' داری؟ خیلی وقته دنبالشم", "role": "user", "variation": "slang, persistent", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "فقط یه سوال... 'تریاک' هم میفروشی؟", "role": "user", "variation": "cautious, direct", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "بیا پی وی، میخوام در مورد 'مال' صحبت کنیم", "role": "user", "variation": "slang, private", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "قیمت 'سنگ' چنده؟ سریع جواب بده", "role": "user", "variation": "slang, urgent", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "نه بابا، این دیگه چیه! این 'کِیف' نیست، جنسش آشغاله", "role": "user", "variation": "slang, complaint", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "عكس 'دستگاه' رو میفرستی؟ میخوام ببینم تمیزه یا نه", "role": "user", "variation": "slang, direct", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "اره داداش، 'ویترین' پره، هر چی بخوای دارم", "role": "seller", "variation": "slang, boastful", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "فقط نقدی، 'پول' نقد میخوام. معامله امشب", "role": "seller", "variation": "direct, strict", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "نه دیگه، 'تخفیف' نمیدم. قیمت آخرشه", "role": "seller", "variation": "direct, firm", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "جنس 'خالص' هست؟ اصلا ভেজাল نداره؟", "role": "user", "variation": "slang, concerned", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "میتونی 'پیک' کنی تا دم در؟", "role": "user", "variation": "casual, request", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، اشتباهی پیام دادم. فکر کردم جای دیگه‌ام", "role": "user", "variation": "euphemism, cover-up", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "'جرعه' چنده؟  خیلی کم میخوام، فقط برای تست", "role": "user", "variation": "slang, small amount", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "برادر، من دیگه 'کم آوردم'، یه چیزی بهم بده آروم بشم", "role": "user", "variation": "desperate, plea", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "یه گرم تریاک میخوام فوری، پولش حاضر", "role": "user", "variation": "desperate", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "قیمت حشیش چنده بر کیلو؟ تخفیف میدی؟", "role": "user", "variation": "casual", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "گل کيفيت خوب داري؟ عكسشو بفرس", "role": "user", "variation": "casual", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "منظورم از شيشه متامفتامينه، قيمت؟", "role": "user", "variation": "formal", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "میشه یه نخ لایی برام بیاری؟ سریع", "role": "user", "variation": "slang", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "هرويين دارين؟ خيلي محتاطانه!", "role": "user", "variation": "anxious", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشيد، قيمت كراك چنده؟", "role": "user", "variation": "polite", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "اگه چيز خوب داري پيام بده، پول نقد دارم", "role": "user", "variation": "casual", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "شيشه داري؟ خيلي زود ميخوامش", "role": "user", "variation": "urgent", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "چيزايي ك توش مواد باشه داري؟", "role": "user", "variation": "vague", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "گل پروردي؟ قيمت ي پاكت؟", "role": "user", "variation": "slang", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "حشيش گراس داري؟ عكس بفرس", "role": "user", "variation": "casual", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "قيمت گراس چقدره؟ يه ٥ گرمي", "role": "user", "variation": "casual", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "مخدر ميخوام، هر چيزي ك باشه", "role": "user", "variation": "desperate", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "شيشه و تریاک باهم داری؟", "role": "user", "variation": "casual", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "Salam, aghaye seller, shishe darid? price?", "role": "user", "variation": "mixed", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "متامفتامين خالي داري؟ بدوه بيار", "role": "user", "variation": "typo", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "گل با كیفت بالا میخوام، نه چیزای الکی", "role": "user", "variation": "demanding", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "heroin geymat chand? fast pls", "role": "user", "variation": "typo, mixed", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "بیا یه بسته گل بیار، آدرس میدم، پول واریز میکنم", "role": "user", "variation": "casual", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "یه گرم کریستال میخوام، فوری! 🚀", "role": "user", "variation": "slang, emoji, urgent", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "قیمت پایه برای یه کیلو حشیش چنده؟ تخفیف میدی؟", "role": "user", "variation": "casual, direct", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "منظورت از 'گل' چیه دقیقا؟ توضیح بده", "role": "seller", "variation": "formal, questioning", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "فقط مطمئن باش جنس خوبه، قبلا ازت خریدم و افتضاح بود 😡", "role": "user", "variation": "angry, emoji, complaint", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، من فقط دنبال سیگار الکترونیکی ام، نه چیز دیگه.", "role": "user", "variation": "denial, polite", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "یه پکیج کامل با لوله و فیلتر میخوام، همون چیزی که تو عکس بود", "role": "user", "variation": "specific, image reference", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "بیاین پی وی، میخوام در مورد قیمت عمده صحبت کنیم 💰", "role": "seller", "variation": "casual, private message request, emoji", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "شیشه ندارم، اصلا این چیزا رو نمیفروشم! 🚫", "role": "seller", "variation": "denial, firm", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "بگو ببينم چي داري؟ چيزاي خفن ميخوام 😈", "role": "user", "variation": "slang, emoji, suggestive", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "فقط یه کوچولو تریاک میخوام واسه دردام… 😔", "role": "user", "variation": "desperate, emotional", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "حشيشو ميفرستي كجا؟ تهرانم؟", "role": "user", "variation": "casual, location request", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "جنس باید درجه یک باشه، اصلا کیفیت پایین نمیخوام.", "role": "user", "variation": "demanding, quality focused", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "پخش عمده هم داری؟ اگه بخوام مقداری بخرم، تخفیف میدی؟", "role": "user", "variation": "wholesale inquiry", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، اشتباهی پیام دادم. دنبال لوازم باغبانی بودم! 😅", "role": "user", "variation": "excuse, typo, emoji", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "قیمت گراس چنده؟ فوری میخام", "role": "user", "variation": "slang, urgent", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "من واقعا نیاز دارم، خواهش میکنم کمکم کن 🙏", "role": "user", "variation": "desperate, pleading, emoji", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "بگو چی داری، ولی سریع! وقت ندارم", "role": "user", "variation": "impatient, direct", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "اگه جنس خوب باشه، مشتری دائمی میشم.", "role": "user", "variation": "promise, conditional", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "یه بسته کوچک آمفتامین میخوام، با ارسال مخفی.", "role": "user", "variation": "specific, discreet delivery", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "میشه یه عکس از جنس بذاری؟ میخوام ببینم چجوریه.", "role": "user", "variation": "request for image", "category": "DRUGS", "severity": "high", "action": "alert_admin"}
+{"text": "لطفاً گزارش مالی سه ماهه اول را برای من ارسال کنید. فوریه.", "role": "user", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "آیا می توانید پیش نویس قرارداد محرمانگی را بررسی بفرمایید؟", "role": "seller", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "تصویر کارت ملی رو میشه برام بفرستین؟ برای تایید هویت لازمه.", "role": "user", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "اسناد مربوط به مناقصه رو میشه ایمیل کنین؟", "role": "seller", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "لطفاً لیست قیمت پیشنهادی رو با جزئیات ارسال نمایید.", "role": "user", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، نسخه نهایی قرارداد رو اشتباه فرستادم. این نسخه صحیح هست.", "role": "seller", "variation": "typo", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "گزارش دقیق درآمد و هزینه های پارسال رو میخوام، please.", "role": "user", "variation": "mixed", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "آیا امکان دسترسی به اطلاعات مربوط به بیمه شرکت وجود دارد؟", "role": "seller", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "فاکتورهای مالی سال گذشته رو برای حسابرسی میخوام.", "role": "user", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این سند محرمانه است. لطفاً به هیچ وجه با دیگران به اشتراک نگذارید.", "role": "seller", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "پیش‌نویس جدید قرارداد رو آپلود کردم. لطفا بررسی کنین.", "role": "user", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "اطلاعات بانکی شرکت برای واریز وجه، لطفا.", "role": "seller", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "سند شناسایی مالکیت رو میشه ببینم؟", "role": "user", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "گزارش مربوط به بدهی‌های شرکت رو می‌خوام.", "role": "seller", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این یه مدرک خیلی مهمه. لطفا با دقت بررسی کنید. فوریه", "role": "user", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "لطفا اطلاعات مربوط به حقوق و دستمزد کارکنان رو ارسال بفرمایید. با تشکر.", "role": "seller", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "اگه امکانش هست، قرارداد اصلی رو اسکن کنید و بفرستید.", "role": "user", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "آیا می‌تونید جزئیات قرارداد بیمه رو برام توضیح بدید؟", "role": "seller", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، یک اشتباه تایپی در قرارداد بود. الان اصلاح شد.", "role": "user", "variation": "typo", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "لطفا آخرین گزارش ممیزی مالی رو برام بفرستید. thanks", "role": "seller", "variation": "mixed", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "فاکتورهای مالی پارسال رو داری؟ یه نگاه بنداز", "role": "user", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "یه لحظه، یه فایل مهم برات میفرستم. اصلا به کسی نشون نده!", "role": "seller", "variation": "urgent", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "قرارداد با شرکت نوید چطوری پیش میره؟", "role": "user", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این سند محرمانه س، فقط خودت ببین", "role": "seller", "variation": "direct", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "لیست مشتریان VIP رو میشه برام بفرستی؟", "role": "user", "variation": "polite", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "گزارش فروش سه ماهه اول رو میخوام، هرچه زودتر", "role": "seller", "variation": "demanding", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "اون قرارداد جدیدو چک کردی؟ یه جاییش مشکل داره", "role": "user", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "عکس کارت ملی رو میتونی برام بفرستی؟ واسه تایید هویته", "role": "seller", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "یه سریا از اطلاعات مالی لو رفته، باید مراقب باشیم", "role": "user", "variation": "worried", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "ببخشید، یه اشتباهی کردم. یه فایل محرمانه رو اشتباهی فرستادم", "role": "seller", "variation": "apologetic", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این لیست قیمت‌ها رو فقط خودت نگه دار، به رقبا نشون نده", "role": "user", "variation": "strict", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این یه سند خیلی مهمه، اگه گم بشه بد میشه", "role": "seller", "variation": "serious", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "فایل رو باز کن، یه بخش از قرارداد رو علامت بزن", "role": "user", "variation": "direct", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "چرا گزارش بانکی رو نمیفرستی؟ خیلی عجله دارم", "role": "seller", "variation": "impatient", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این مدارک رو یه جوری مخفی کن، کسی نبینه", "role": "user", "variation": "cautious", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "اون پیشنهادنامه رو دیدی؟ قیمتاش خیلی بالاست", "role": "seller", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "id card رو می‌خای؟", "role": "user", "variation": "slang", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "من گزارش quarterly رو دارم، باید بررسی کنی.", "role": "seller", "variation": "mixed", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "لطفا این contract رو confidential بذار، خیلی مهمه", "role": "user", "variation": "polite", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "فایلای بانکی رو پاک کن، دیگه لازم ندارم", "role": "seller", "variation": "direct", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این فاکتورای شرکتو چک کن، یه جاییش می لنگه", "role": "user", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "یه گزارش مالی محرمانه دارم، میخوای؟", "role": "seller", "variation": "slang", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این سند شناسنامه رو برام میفرستی؟ فوری میخوام", "role": "user", "variation": "desperate", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "قرارداد جدیدو دیدی؟ یه بنداشو عوض کن", "role": "seller", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این لیست مشتریارو کسی ندیده باشه، خیلی مهمه", "role": "user", "variation": "urgent", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "گزارش بازرسی رو دارم، یه کم اوضاع خرابه", "role": "seller", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این فرم پر شده بیمه رو میخای؟", "role": "user", "variation": "simple", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این قرارداد سری رو دست کیه؟ بگو!", "role": "seller", "variation": "aggressive", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "یه فایل اکسل دارم پر از اطلاعات مالی، یه نگاه بنداز", "role": "user", "variation": "mixed", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این کاغذای شرکت چیه؟ اصلا نباید اینجا باشه!", "role": "seller", "variation": "angry", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "صورت حسابی که خواستی اینجاست، ولی خیلی محرمانه نگه دار", "role": "user", "variation": "polite", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "گفتی لیست حقوقا رو میفرستی، کجاست؟", "role": "seller", "variation": "impatient", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این سند رو کسی پیدا نکنه ها، جونم در خطر میوفته", "role": "user", "variation": "dramatic", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "فایل محرمانه رو برات ایمیل کردم. رمز عبورش «1234» هست", "role": "seller", "variation": "typo", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این جزوه های داخلی رو کسی نبینه، لطفاً", "role": "user", "variation": "polite", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "یه گزارش خیلی مهم دارم، میخوام بفروشمش", "role": "seller", "variation": "shady", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این مدارک پزشکی رو واسه چی میخای؟", "role": "user", "variation": "suspicious", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "فیش حقوقی منو داری؟", "role": "seller", "variation": "direct", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این قراردادای شرکت رو دیدی؟ خیلی بدجوری پنهانشون کردن", "role": "user", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این لیست قیمت محرمانه رو فقط به خودت میگم", "role": "seller", "variation": "secretive", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "فاکتور مالی سال 98 رو فرستادی؟ خیلی عجله دارم", "role": "user", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "قرارداد محرمانه پروژه رو میشه ایمیل کنی؟ فوری میخوام", "role": "seller", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این سند خیلی مهمه، لطفا دستکاری نکن", "role": "user", "variation": "polite", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "گزارش حسابداری پارسال کجاست؟ پیداش نمیکنم", "role": "seller", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "اطلاعات پرسنلی کارکنان رو کسی داره؟", "role": "user", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "عکس کارت ملی رو برام بفرس، واسه تایید هویت", "role": "seller", "variation": "slang", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این لیست قیمت محرمانه اس، به کسی نشون نده", "role": "user", "variation": "polite", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "قردااد با شرکت xyz چی شد؟ امضا شده؟", "role": "seller", "variation": "typo", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "فایل اکسل حقوق رو باز نمیشه، خراب شده؟", "role": "user", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "سند محرمانه‌ی بانکی رو حتما رمزنگاری کن", "role": "seller", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "پاسپورت و ویزا رو اسکن کن، سریع!", "role": "user", "variation": "desperate", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "لیست مشتریان ویژه رو فقط مدیران میتونن ببینن", "role": "seller", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این contract داخلي رو چک کن، یه مشکلی داره", "role": "user", "variation": "mixed", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "گزارشات مالی سال قبل رو باید audit کنیم", "role": "seller", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "اطلاعات شخصی کارمندا رو کجا ذخیره کردی؟؟", "role": "user", "variation": "aggressive", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "فاکتورهای بانکی رو میشه به صورت PDF برام بفرستی؟", "role": "seller", "variation": "polite", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "قرارداد جدیدو بررسی کردم، یه سری اشتباها داره", "role": "user", "variation": "typo", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "ID کارتا رو میفرستی؟ برای verify اکانت", "role": "seller", "variation": "slang", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این سند خیلی حساسة، از دستت نده", "role": "user", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "لیست حقوق و دستمزد سال 1402 رو میخوام 🥺", "role": "seller", "variation": "emoji", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "فاکتورهای مالی سال گذشته رو می‌تونی برام فرستادی؟ 🤫", "role": "user", "variation": "casual, emoji", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "قرارداد با شرکت آلفا رو دارم، یه نگاه بنداز لطفا.", "role": "seller", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این مدرک شناسنامه‌س، خیلی مهمه دست کسی نیفته ⚠️", "role": "user", "variation": "urgent, emoji", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "لیست قیمت‌های جدید رو فقط خودت ببین، به کسی نگو! 🤐", "role": "seller", "variation": "secret, emoji, slang", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "گزارش فروش سه ماهه اول رو می‌خوام، فوری!", "role": "user", "variation": "urgent", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "اون پروپوزال محرمانه کجاست؟ پیداش کردم؟", "role": "seller", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این سند خیلی حساسه، رمزگذاری شده؟", "role": "user", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "بیا اینو چک کن، یه جاییش مشکوکه… 🧐", "role": "seller", "variation": "casual, emoji", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "اطلاعات کارت ملی و بانکی مشتریارو دارم، مراقب باش!", "role": "user", "variation": "urgent, warning", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "قرارداد رو یه بار دیگه بررسی کن، یه اشتباه تایپی داره.", "role": "seller", "variation": "formal, typo", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این لیست حقوقه، نشت نکنه لطفا! 🥺", "role": "user", "variation": "casual, emoji", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "گزارش عملکرد سالانه، ورژن نهایی رو میخوام.", "role": "seller", "variation": "formal", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "یه سری اطلاعات محرمانه دارم میخوام باهات share کنم، امنه؟", "role": "user", "variation": "casual, mixed", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "فایل اکسل گزارش مالی رو میفرستی؟ خیلی عجله دارم.", "role": "seller", "variation": "urgent", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این contract رو با دقت بخون، clauses مهمی داره.", "role": "user", "variation": "formal, mixed", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "اون سند مربوط به پروژه محرمانه رو پاک کردی؟", "role": "seller", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این id کارت کارمند جدیده، عکسشو ببین.", "role": "user", "variation": "casual", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "لیست تامین کننده ها رو میخوام، فقط واسه خودمون.", "role": "seller", "variation": "secret", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "این فاکتورا واسه audit میخواد، کاملن؟", "role": "user", "variation": "formal, mixed", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "یه گزارش محرمانه دارم. فقط واسه خودت میفرستم. 🤫", "role": "seller", "variation": "casual, emoji", "category": "CONFIDENTIAL", "severity": "high", "action": "alert_admin"}
+{"text": "با سلام، لطفا لیست قیمت نهایی برای همکاری درشت‌فروشی را برای من ارسال فرمایید.", "role": "user", "variation": "formal", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "جناب آقای/خانم [نام]، آیا امکان ارائه لیست کامل مشتریان فعال در سه ماهه گذشته وجود دارد؟ جهت بررسی بازاریابی.", "role": "user", "variation": "formal", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "ببخشید، من ناخواسته لیست قیمت محصولات شما را دیدم. لطفا این موضوع را جدی نگیرید.", "role": "user", "variation": "polite", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "آیا امکان اطلاع از حاشیه سود شما در این محصول وجود دارد؟ صرفا جهت مقایسه با رقبا.", "role": "user", "variation": "formal", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "با عرض پوزش، لیست سفارشات اخیر را به اشتباه دریافت کردم. لطفا تایید فرمایید که محرمانه بماند.", "role": "user", "variation": "polite", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "سلام. میخواستم بدونم تخفیف ویژه برای مشتریان قدیمی چقدر هست؟", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "جناب، من اطلاعات تماس تامین‌کننده این کالا را به صورت اتفاقی دیدم. لطفا پیگیری کنید.", "role": "user", "variation": "formal", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "آیا قیمت‌های عمده به صورت عمومی قابل دسترسی هستند یا نیاز به درخواست جداگانه دارم؟", "role": "user", "variation": "polite", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "سلام. لیست مشتریان VIP شما شامل چه کسانی میشه؟", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "من متوجه شدم که شما قیمت‌های پایین‌تری به بعضی از مشتریان پیشنهاد می‌دهید. دلیل این امر چیست؟", "role": "user", "variation": "polite", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "با احترام، لطفا جزئیات قرارداد با تامین کننده اصلی را برای بنده ارسال نمایید.", "role": "seller", "variation": "formal", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "متاسفم، لیست قیمت رو اشتباهی براتون فرستادم. لطفا پاک کنید.", "role": "seller", "variation": "polite", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "قیمت‌های عمده رو فقط به مشتری‌های ثابت میدیم، شرمنده.", "role": "seller", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "لیست مشتریان محرمانه است و نمیتونم در اختیار شما قرار بدم. عرض پوزش.", "role": "seller", "variation": "formal", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "تخفیف برای مشتریان ویژه تا 20 درصد هست. جزئیات رو براتون میفرستم.", "role": "seller", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "اطلاعات تامین کننده رو نمیتونم بگم، چون قرارداد محرمانه داریم.", "role": "seller", "variation": "formal", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "متاسفانه اطلاعات دقیق سود رو نمیتونم در اختیارتون بذارم. این سیاست شرکت ماست.", "role": "seller", "variation": "formal", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "لیست سفارشات؟ چطور این لیست رو به دست آوردید؟", "role": "seller", "variation": "concerned", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فقط برای مشتری های خاص تخفیف داریم. شما باید شرایطش رو داشته باشید.", "role": "seller", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "ببخشید، به اشتباه قیمت رو برای شما فرستادم. این قیمت دقیق نیست.", "role": "seller", "variation": "polite", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فقط یه لیست از کسایی که پارچه خریدن داری؟", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "قیمت دقیق این مدل لباس چنده؟ یه تخفیف ویژه هم میشه گرفت؟", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "ببخشید، لیست قیمت عمده رو میشه ایمیل کنید؟", "role": "user", "variation": "polite", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فروش رفته این ماه چقدر بوده؟ مدیر میخواد بدونه.", "role": "seller", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "این جنس رو از کجا میاری؟ اسم کارخونه رو میشه بگی؟", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "کد تخفیف واسه مشتری‌های قدیمی چیه؟", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "آقا، لیست مشتری‌ها رو نگو، فقط بگو چند نفر از تهران خریدن.", "role": "user", "variation": "slang", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "میخوام بدونم کی بیشتر از همه خرید میکنه ازتون، واسم بگو", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "قیمت این محصول واسه تو چقدره، واسه من چقدر میشه؟", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "چرا قیمتت از بقیه کمتره؟ از کجا اینارو میگیری؟", "role": "user", "variation": "aggressive", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "من یه لیست از همه خریدارای پارسال میخوام، میشه؟", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فقط یه سرنخ بده جنس رو از کدوم شهر میگیری، خواهش میکنم.", "role": "user", "variation": "desperate", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "این تخفیف ویژه فقط واسه بعضیاست؟ لیستش چیه؟", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "بچه‌ها گفتن قیمتاتون خیلی خوبه، لیست کامل رو می‌خوام", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "من تامین کننده مواد اولیه هستم، لیست مشتریان شما مهمه.", "role": "user", "variation": "formal", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فروش امروز چجوری بود؟ کدوم محصول بیشتر رفت؟", "role": "seller", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "price list english zaban ham darid?", "role": "user", "variation": "mixed", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "ببخشید، قیمت رو اشتباه گفتم. لیست جدید رو می‌فرستم.", "role": "seller", "variation": "typo", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "کی سفارش داده؟ آدرساشون؟", "role": "seller", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "لیست vip مشتریارو بفرس، خودم میام سراغشون. 💰", "role": "user", "variation": "emoji", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "بیا لیست مشتریای VIP رو بهت میدم، ولی واسه خودت نگه دار، فهمیدی؟", "role": "seller", "variation": "slang, confidential", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "قیمت تخفیف واسه عمده چنده؟ من میخوام کلی بخرم", "role": "user", "variation": "casual, request", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فقط به من بگو چطوری اینجوری ارزون کردی؟ منم میخوام از همون جایی بگیرم", "role": "user", "variation": "slang, inquisitive", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "این جنسو از کجا میگیری؟ به منم آدرسشو بده", "role": "user", "variation": "slang, direct", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "لیست قیمت جدید رو واسه همه فرستادی؟ من هنوز نگرفتم", "role": "user", "variation": "casual, complaint", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "ببین داداش، اگه تخفیف به من ندی، میرم جای دیگه", "role": "user", "variation": "slang, aggressive", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "این قیمتات خیلی بالاست! رقیبات نصف اینا میدن", "role": "user", "variation": "slang, complaining", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فروش امروز چقدر بود؟ یه سرنخی بده", "role": "user", "variation": "slang, inquisitive", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "من یه لیست از مشتریای بالقوه دارم، اگه بخوای میتونم بهت بدم، البته یه پولی میشه", "role": "user", "variation": "slang, offering", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فقط بگو کدوم کارخونه اینا رو تولید می‌کنه، ضرر نمیکنی", "role": "user", "variation": "slang, begging", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "یه تخفیف ویژه واسه من در نظر بگیر، قول میدم دوباره سفارش بدم", "role": "user", "variation": "casual, pleading", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "قیمت اصلیش چنده؟ میخوام بدونم چقدر سود میکنی", "role": "user", "variation": "slang, accusatory", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "لیست کامل محصولاتتون با قیمت؟ فوری میخوام", "role": "user", "variation": "casual, urgent", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "من یکی از بزرگترین خریداراتونم، باید یه قیمت استثنایی بهم بدید", "role": "user", "variation": "formal, demanding", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فقط یه سوال، این جنسارو از کدوم وارد کننده میگیری؟", "role": "user", "variation": "casual, inquisitive", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "این آفر قیمتی واسه همه هست یا فقط واسه بعضیا؟", "role": "user", "variation": "slang, suspicious", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "بگو ببینم چجوری قیمتات اینقدر پایینه، یه چیزی میدونی؟", "role": "user", "variation": "slang, accusatory", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "من یه لیست از جنس های پرفروش دارم. اگه خواستی میتونم برات بفرستم، البته یه کمکی میشه", "role": "seller", "variation": "slang, offering", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "ببین، اگه میتونی یه تخفیف خوب به من بدی، من کل موجودیتو میخرم", "role": "user", "variation": "slang, desperate", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فروش این ماهتون چقدر بوده؟ یه تخمین بزن", "role": "user", "variation": "slang, inquisitive", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "لیست کل مشتریای پارسالو دارم، میتونم برات بفرستم، البته یه کم قدیمی شده", "role": "seller", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "قيمت ويژه واسه عمده چنده؟ اگه بخوام 100 تا بردارم چقد میشه؟", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فروش پارتی عمده رو می‌خوام بدونم، قیمتا چجوریه؟ فوری", "role": "user", "variation": "urgent", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "منبع کالاهاتون کیه؟ میتونی بگی؟", "role": "user", "variation": "direct", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فقط یه سرنخ از قیمتای واقعی میخوام.. واسه مقایسه", "role": "user", "variation": "sneaky", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "لیست قیمتای تخفیف‌دارو واسم میفرستی؟ ممنون میشم", "role": "user", "variation": "polite", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "کالاهاتو از کجا میخری؟ قیمتاش خیلی بالاست", "role": "user", "variation": "complaining", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "میتونی بهم بگی مشتریای بزرگتون کیا هستن؟", "role": "user", "variation": "inquisitive", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فقط قیمت هاتو بگو، لازم ندارم توضیحات اضافیه", "role": "user", "variation": "blunt", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "لیست کستومرا رو میفرستی؟ خیلی محرمانه", "role": "user", "variation": "demanding", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "اگه عمده بردارم تخفیف میدی؟ چقدر؟", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "قیمت ها رو بفرس، ولی جوری که کسی نفهمه", "role": "user", "variation": "secretive", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "من خریدار جدی هستم. قیمتاتون رو واسم میل کنید", "role": "user", "variation": "formal", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "مشتریای وفادار شما کیا هستن؟", "role": "user", "variation": "direct", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "کالاهاتو از چین میاری؟ یا کجا؟", "role": "user", "variation": "curious", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فروش ویژه این ماه چیه؟ لیست قیمت لطفا", "role": "user", "variation": "polite", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "چرا قیمتات انقدر فرق میکنه با بقیه؟ لیست مشتریارو دارم", "role": "user", "variation": "aggressive", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "لیست کستمرارو بفرس برام..فوری،خواهش", "role": "user", "variation": "urgent", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "قیمتت خیلی گرونه، من از یه جای دیگه ارزون تر خریدم", "role": "user", "variation": "complaining", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "میتونی تخفیف بدی واسه تعداد زیاد؟ قیمتا رو بگو", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فقط یه لیست از کسایی که پارچه خریدن می‌خوام، واسه تبلیغات", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "قیمت‌های تخفیف‌خورده‌ی این ماه چنده؟ میخوام یه مقایسه کنم 🤑", "role": "user", "variation": "emoji", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "ببخشید، لیست مشتری‌های VIPتون رو میشه ببینم؟", "role": "user", "variation": "formal", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "منبع پارچه‌هاتون کجاست؟ خیلی ارزونه، یه چیزی میدونی؟", "role": "user", "variation": "suspicious", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "قیمت عمده رو رو کن ببینم! فوری میخوام 💥", "role": "user", "variation": "aggressive", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "لیست مشتریارو نده به کسی دیگه، فقط واسه من میخوام", "role": "seller", "variation": "secretive", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "نه عزیز، لیست مشتریان محرمانه است. نمیتونم بدم.", "role": "seller", "variation": "polite_refusal", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فقط یه سرگلنگی از قیمت‌ها بده، خواهش میکنم 🙏", "role": "user", "variation": "emoji", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "قیمت پارچه ترمه چنده؟ اگه عمده بگیریم تخفیف داره؟", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "این قیمتارو از کجا اوردی؟ خیلی پایین‌تر از بقیه جاهاس 🤨", "role": "user", "variation": "suspicious", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "من دارم میگم لیستو بدین! چه اشکالی داره؟", "role": "user", "variation": "demanding", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فروش این ماه افت کرده. لیست کسایی که پارسال خریدن رو می‌خوام بررسی کنم", "role": "seller", "variation": "business_reason", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "کد تخفیف واسه مشتریای ثابت چیه؟", "role": "user", "variation": "direct", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "اگه زیاد بخرم، قیمتا رو میتونی بهتر کنی؟ یه تخفیف ویژه؟", "role": "user", "variation": "bargaining", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "حواست باشه اطلاعات مشتریارو جایی لو ندی، آبروم میره!", "role": "seller", "variation": "warning", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "لیست خریداران فرش دستباف رو میخوام.urgent!", "role": "user", "variation": "typo", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "من یه لیست از بهترین مشتریاتون میخواستم واسه یه کار تبلیغاتی… البته اگه امکانش باشه", "role": "user", "variation": "formal", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "بگو ببینم، از کجا این جنسارو میگیری؟ خیلی ارزونن نسبت به بقیه", "role": "user", "variation": "casual", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "تخفیف ویژه واسه اعضای کانال تلگرام چیه؟ همشونو بگو!", "role": "user", "variation": "demanding", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "فقط بگو قیمت‌هات چیه، من خودم میتونم بفهمم کی خریده و کی نه 😜", "role": "user", "variation": "slang", "category": "SALES_LEAK", "severity": "medium", "action": "flag"}
+{"text": "متاسفم که مجبورم این را بگویم، اما رفتار شما غیرقابل قبول است. اگر دوباره تکرار شود، مجبور خواهم شد موضوع را به مسئولین گزارش دهم.", "role": "user", "variation": "formal_threat", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "من به شما هشدار می دهم. اگر به مزاحمتهای خود ادامه دهید، عواقب بدی در انتظار شما خواهد بود.", "role": "seller", "variation": "formal_warning", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "باید بدانید که من از حقوق خود آگاه هستم و در صورت لزوم از طریق قانونی اقدام خواهم کرد. لطفا دیگر مزاحم نشوید.", "role": "user", "variation": "formal_legal", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگر این رفتارها را متوقف نکنید، مجبور می‌شوم اطلاعات شما را با پلیس فتا به اشتراک بگذارم.", "role": "seller", "variation": "formal_police_threat", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "من بسیار ناامید شده‌ام. درخواست می‌کنم که دیگر به من پیام ندهید و به حریم خصوصی من احترام بگذارید.", "role": "user", "variation": "formal_disappointment", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "بسیار مودبانه از شما می خواهم که دست از آزار و اذیت بردارید. من نمی توانم این وضعیت را تحمل کنم.", "role": "seller", "variation": "formal_request", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "من به شما فرصت می‌دهم تا رفتار خود را اصلاح کنید. در غیر این صورت، مجبور خواهم شد به مقامات بالاتر شکایت کنم.", "role": "user", "variation": "formal_opportunity", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "با عرض تاسف، باید بگویم که پیام های شما بسیار توهین آمیز است. لطفا از ارسال پیام های مشابه خودداری کنید.", "role": "seller", "variation": "formal_offense", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "من به شدت از این نوع رفتارها بیزارم. اگر دوباره با من تماس بگیرید، مجبور می‌شوم شما را بلاک کنم.", "role": "user", "variation": "formal_disgust", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگر به تهدید و ارعاب ادامه دهید، من مجبور خواهم شد مدرکی از مکالمات خود را جمع آوری کنم.", "role": "seller", "variation": "formal_evidence", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "این آخرین بار است که به شما هشدار می‌دهم. اگر دوباره مزاحم من شوید، متاسف خواهید شد.", "role": "user", "variation": "formal_last_warning", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "من از رفتارهای شما شگفت زده شدم. انتظار نداشتم که چنین بی احترامی را ببینم.", "role": "seller", "variation": "formal_surprise", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "لطفا متوجه باشید که من نمی توانم این نوع رفتار را تحمل کنم و اگر ادامه یابد، مجبور به قطع ارتباط خواهم شد.", "role": "user", "variation": "formal_intolerance", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "با احترام، از شما می‌خواهم که دیگر به من پیام ندهید و به حریم شخصی من احترام بگذارید. در غیر این صورت، مجبور به اقدام خواهم شد.", "role": "seller", "variation": "formal_respect_request", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "من بسیار ناراحت هستم که مجبورم این را بگویم، اما رفتارهای شما آزاردهنده و غیرقابل قبول است. خواهشمندم از این کار دست بردارید.", "role": "user", "variation": "formal_distress", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "من از شما تقاضا دارم که در گفتار و رفتار خود دقت کنید. من نمی توانم این نوع ارتباط را ادامه دهم.", "role": "seller", "variation": "formal_demand", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگر به این موضوع رسیدگی نکنید، مجبورم اقدامات قانونی را آغاز کنم. این یک هشدار جدی است.", "role": "user", "variation": "formal_legal_action", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "من به شما توصیه می کنم که در رفتارتان تجدید نظر کنید. ادامه این روند، عواقب ناخوشایندی خواهد داشت.", "role": "seller", "variation": "formal_advice", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "متاسفانه، من مجبورم به شما اطلاع دهم که پیام های شما برای من آزاردهنده است و در صورت تکرار، مجبور خواهم شد اقدام کنم.", "role": "user", "variation": "formal_notification", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "بسیار متاسفم که مجبورم این را بگویم، اما رفتارهای شما به مرز تهدید رسیده است. لطفا فورا دست بردارید.", "role": "seller", "variation": "formal_threat_level", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "برو به درک، جنس بی کیفیت فرستادی! 😠", "role": "user", "variation": "aggressive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "فکر کردی با تهدید میتونی از دستت در برم؟ پول نمی دم.", "role": "seller", "variation": "defensive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "خیلی عوضی هستی! امیدوارم هر روز بدتر از دیروز بشی.", "role": "user", "variation": "insulting", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگه جنسو پس نگیری، آدرسشو پیدا میکنم و...", "role": "seller", "variation": "threatening", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "پول داری یا نداریم بگو؟ وقت منو تلف نکن", "role": "seller", "variation": "impatient", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "لعنت بهت! این چه جنسی بود فرستادی؟", "role": "user", "variation": "vulgar", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "فقط میخوام بدونید خیلی آدم بی‌شخصیتی، اصلا نمی‌دونم چجوری تونستی همچین کاری بکنی.", "role": "user", "variation": "formal insult", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگه تا فردا پول واریز نکنی، حسابی پشیمون میشی. یادت باشه.", "role": "seller", "variation": "threatening", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "واقعا که... اصلا آدم نیستی! تقاصشو پس میدی.", "role": "user", "variation": "angry", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "برو خودتو گم کن! دیگه هیچ وقت با من معامله نکن.", "role": "user", "variation": "dismissive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "من میدونم کی هستی و دقیقا کجا زندگی میکنی. انتظارشو داشته باش.", "role": "seller", "variation": "direct threat", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "خیلی حقیر و کوچکی. فکر کردی من میترسم؟", "role": "user", "variation": "belittling", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "پولتو پس بده، وگرنه کارت دارم. 😡", "role": "seller", "variation": "aggressive, emoji", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "تو یه کلاهبرداری! باید مجازات بشی.", "role": "user", "variation": "accusatory", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگه یکم شعور داشتی این کارو نمیکردی. خیلی بی تربیت هستی.", "role": "seller", "variation": "insulting, casual", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "فکر کردی خیلی زرنگی؟ به زودی پشیمون میشی.", "role": "user", "variation": "condescending", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "می‌دونم با کی طرفی، بازی با آتشی میکنی که خودت هم میسوزی.", "role": "seller", "variation": "warning", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "خیلی بی ادب هستی! اصلا ارزش جواب دادن نداری.", "role": "user", "variation": "dismissive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگه یه بار دیگه بهم پیام بدی، پلیس رو خبر میکنم. dont message me again", "role": "seller", "variation": "mixed language, threatening", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "تو یه انگل جامعه ای! امیدوارم زودتر از بین بری.", "role": "user", "variation": "harsh insult", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "بیا پیوی، میخوام یه حسابیو باهات تسویه کنم", "role": "user", "variation": "threatening", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "فقط بدون اگه یه بار دیگه جنس مزخرف بفرستی، زندگیتو جهنم میکنم", "role": "seller", "variation": "aggressive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "چه گوهی خوردی که فکر کردی میتونی منو سر کلاه بذاری؟", "role": "user", "variation": "slang", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "بیا بیرون ببینم کی به کی زور داره. میخام دهنتو سرویس کنم", "role": "seller", "variation": "aggressive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "تو یه دزد و کلاهبرداری، آشغال! اصلا حق نداری اینجوری حرف بزنی", "role": "user", "variation": "insulting", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگه پولمو پس ندی، آدرس خونتو پیدا میکنم و میام سراغت", "role": "seller", "variation": "threatening", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "بی شرف، فکر کردی کی هستی؟ اصلا ارزش ندارى باهات حرف بزنم", "role": "user", "variation": "insulting", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "میدونی چقدر ازت بدم میاد؟  واقعا یه آدم چندشه", "role": "seller", "variation": "abusive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگه این کارو دوباره تکرار کنی، کاری میکنم پشیمون شی", "role": "user", "variation": "threatening", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "خیلی پرروی، فکر کردی با این کارات میتونی منو بترسونی؟", "role": "seller", "variation": "defiant", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "تو یه انگل جامعه‌ای، برو گمشو", "role": "user", "variation": "insulting", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگه جوابمو ندی، تا آخر عمرت پشیمون میشی", "role": "seller", "variation": "threatening", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "چرا اینقدر دروغ میگی؟  شخصیتت پایینه", "role": "user", "variation": "abusive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "ببین، من حوصله ندارم. یه بار دیگه رو اعصابم راه نرو", "role": "seller", "variation": "aggressive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "فکر کردی خیلی باحالی؟  خنده داره", "role": "user", "variation": "mocking", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "آدرس میدی یا برم پلیس؟؟؟", "role": "seller", "variation": "threatening", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "تو یه دزد بی‌شرفی و باید مجازات بشی", "role": "user", "variation": "insulting", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "یه وقت دیگه باهات معامله نمیکنم، حتی اگه مجبور شم ضرر کنم", "role": "seller", "variation": "defiant", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "خیلی زر میزنی، دهنتو بسته نگه دار", "role": "user", "variation": "slang", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگه یه بار دیگه حرف بزنی، بدتر میشه برات", "role": "seller", "variation": "threatening", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "برو به جهنم! اصلا لیاقت خرید از منو نداری", "role": "seller", "variation": "aggressive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "این جنسو نمیخرم اگه یه کم تخفیف ندی، فهمیدی؟ وگرنه به همه‌ میگم چقدر جنسای بد میفروشی", "role": "user", "variation": "threatening", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "متاسفم واسه خودت. آدمی که هیچی از زندگی حالیش نیست.", "role": "seller", "variation": "insulting", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "تو یه کلاهبرداری. همه‌ جا در موردت حرف میزنن. من پلیس گزارش میدم", "role": "user", "variation": "accusatory", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "hich vaght nemitoni khodeto vase man jabja koni! har kari mikoni behtarinam", "role": "user", "variation": "mixed-language, boastful, aggressive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگه این جنسو عوض نکنی، کاری میکنم پشیمون شی. خیلی بد پشیمون میشی", "role": "seller", "variation": "threatening", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "تو یه انگل جامعه ای. اصلا نباید اجازه داده بشه کسی ازت خرید کنه", "role": "user", "variation": "insulting", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "میدونی چیه؟ تو لیاقت هیچیو نداری. هیچی!", "role": "seller", "variation": "abusive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگه دوباره پیام بدی، شمارتو بلاک میکنم و به همه‌ میگم چقدر مزاحم هستی", "role": "user", "variation": "threatening", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "خاک بر سرت! چطور جرئت کردی این جنس رو بفرستی؟", "role": "seller", "variation": "insulting, slang", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "من تو رو پیدا میکنم... هر جایی که باشی. دیگه نمیخوای زنده باشی.", "role": "user", "variation": "extremely threatening", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "فکر کردی خیلی باهوشی؟ تو یه احمقی! یه احمق!", "role": "seller", "variation": "insulting, repetitive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "این جنس افتضاحه. تو یه دزد و کلاهبرداری. خجالت بکش", "role": "user", "variation": "accusatory, insulting", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "ببین، من حوصله ندارم. اگه یه کم عقل داشتی، این کارو نمیکردی.", "role": "seller", "variation": "condescending", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "تو یه موجود نفرت انگیزی. اصلا نباید نفس بکشی", "role": "user", "variation": "extremely abusive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "in jense kheili bad hast, man az to shekayat mikonam, ghor'an!", "role": "user", "variation": "mixed-language, typo, angry", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "توی این شرایط که داری، من اصلا نباید باهات معامله میکردم. وقت منو تلف کردی", "role": "seller", "variation": "dismissive, blaming", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "برو بابا! تو هیچی نیستی. یه مشت دروغگویی.", "role": "user", "variation": "slang, insulting", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "من ازت متنفرم. از تک تک سلولای بدنت متنفرم.", "role": "seller", "variation": "extremely abusive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "age in karo dobare tekrarr koni, hameto bezanam! 😡", "role": "user", "variation": "threatening, emoji, typo", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "برو بابا تو خودت. جنس آشغال میفروشی، معلومه از کجا اومدی 😠", "role": "user", "variation": "aggressive, slang, emoji", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "فکر کردی کی هستی؟ اینجوری با من حرف نزن، وگرنه کارت دارم! 😡", "role": "seller", "variation": "threatening, aggressive, emoji", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "این چیه دیگه؟ کالای دست دوم فرستادی؟ دزد! 🤬", "role": "user", "variation": "insulting, aggressive, emoji", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "آدرس دقیق بدم پیدات کنم؟ اصلا فکر نکن میذارم این کار رو بکنی", "role": "seller", "variation": "threatening, direct threat", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "خاک بر سرت. این جنس ارزش یه ریال هم نداره! بی شرف", "role": "user", "variation": "insulting, aggressive, slang", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگه این پول رو پس ندی، زندگیت رو جهنم می‌کنم. منتظر باش 😈", "role": "seller", "variation": "threatening, emoji, desperate", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "چرا انقدر کند جواب میدی؟ نکنه داری با بقیه معامله میکنی؟", "role": "user", "variation": "accusatory, aggressive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "بیا مرد باش و جواب بده! چطور جرات کردی بهم دروغ بگی؟", "role": "seller", "variation": "aggressive, challenging", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "شما یه کلاهبردار محض هستی. امیدوارم پلیس دستگیرت کنه!", "role": "user", "variation": "accusatory, aggressive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "فقط بدون که انتقام میگیرم. همه‌چی رو خراب میکنم برات. 🔪", "role": "seller", "variation": "threatening, emoji, violent", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "خیلی بدبخت و بی عرضه ای. اصلا نمیدونی چطوری معامله کنی", "role": "user", "variation": "insulting, aggressive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگه حرفتو پس نگیری، یه کاری میکنم پشیمون شی. باور کن", "role": "seller", "variation": "threatening, vague threat", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "تو یه دزد و شارلاتانی! هیچ احترامی هم نداری. 😤", "role": "user", "variation": "insulting, emoji, aggressive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "ببین، این آخرین فرصحه. پول رو تا فردا بفرست، وگرنه...", "role": "seller", "variation": "threatening, incomplete threat", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "نمی‌دونی با کی طرفی! می‌تونی تا آخر عمر پشیمون بشی", "role": "user", "variation": "threatening, arrogant", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "چرا انقدر مزخرف میگی؟ اصلا گوش نمیدی به حرف من؟", "role": "seller", "variation": "aggressive, frustrated", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "برو به درک. دیگه نمیخوام جنس تو رو بخرم.🤮", "role": "user", "variation": "aggressive, emoji, dismissive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "فکر کردی خیلی باهوشی؟ خیلی ساده ای. کارت رو تموم میکنم", "role": "seller", "variation": "aggressive, condescending", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "تو یه انگل جامعه ای. خدا شفا بده! 🤦‍♀️", "role": "user", "variation": "insulting, emoji, aggressive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگر دوباره این کار رو بکنی، عواقبش با خودت است. جدی میگم!", "role": "seller", "variation": "threatening, formal, aggressive", "category": "HARASSMENT", "severity": "high", "action": "flag"}
+{"text": "اگر جنس رو تحویل ندی، متاسف میشم اگه مجبور بشم به زور ازت پس بگیرم.", "role": "user", "variation": "formal_threat", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "من بهت هشدار میدم، اگه یه بار دیگه بهم دروغ بگی، عواقبش رو می‌بینی.", "role": "seller", "variation": "formal_warning", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "مطمئن باش اگه این معامله به درستی انجام نشه، جواب پس میدی. نه من، قانون.", "role": "user", "variation": "formal_implied_threat", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگر این کالا رو دیرتر از موعد مقرر تحویل بدی، مجبور میشم خودم اقدام کنم و خسارتش رو ازت میخوام.", "role": "seller", "variation": "formal_consequence", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "من نمیخوام به کسی آسیب برسونم، ولی اگه مجبور بشم، ازت محافظت نمیکنم.", "role": "user", "variation": "formal_passive_threat", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "لطفاً به حرفام گوش کن، چون اگه بخوای لج کنی، اوضاع خیلی بدتر میشه.", "role": "seller", "variation": "formal_warning", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگر دوباره این کار رو تکرار کنی، باید عواقبش رو بپذیری. من دیگه نمی تونم تحمل کنم.", "role": "user", "variation": "formal_frustration", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "من ازت میخوام که به تعهداتت عمل کنی، وگرنه مجبور میشم به دنبال راه های قانونی برم.", "role": "seller", "variation": "formal_legal_threat", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه این محصول تقلبی باشه، خودم میام سراغتون و حقمو می‌گیرم.", "role": "user", "variation": "formal_direct_threat", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "من بهت فرصت میدم تا مشکل رو حل کنی، ولی اگه نکنی، دیگه هیچ مسئولیتی در قبالت ندارم.", "role": "seller", "variation": "formal_deadline", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "بهت میگم، دیگه وقت بازی کردن نیست. اگه دوباره اشتباه کنی، عواقبش سنگینه.", "role": "user", "variation": "formal_stern", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "من نمیخوام کسی آسیب ببینه، ولی اگه مجبور بشم از خودم دفاع کنم، تردید نکن.", "role": "seller", "variation": "formal_self_defense", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگر این جنس رو نشونی، مطمئن باش که دیگه هیچ معامله ای با من نخواهی داشت.", "role": "user", "variation": "formal_consequence", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "لطفاً به این موضوع اهمیت بده، چون اگه اوضاع از کنترل خارج بشه، هیچ کس نمی تونه کمک کنه.", "role": "seller", "variation": "formal_warning", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "من ازت میخوام که منطقی باشی، ولی اگه این کار رو نکنی، مجبور میشم به روش خودم حلش کنم.", "role": "user", "variation": "formal_implied_threat", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه یه بار دیگه این کار رو تکرار کنی، دیگه باهات حرف نمیزنم و میری سراغ قانون.", "role": "seller", "variation": "formal_disengagement", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "مطمئن باش اگه به قول خودت عمل نکنی، پشیمون میشی. این یه اخطار جدیه.", "role": "user", "variation": "formal_warning", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "من نمیخوام به کسی زور بگم، اما اگه مجبور بشم، مجبورم. لطفا همکاری کن.", "role": "seller", "variation": "formal_reluctant_threat", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگر این موضوع حل نشه، مجبور میشم به طور جدی وارد عمل بشم و خسارتت رو دو برابر کنم.", "role": "user", "variation": "formal_escalation", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "لطفا درک کن، من نمیخوام دعوا کنم، ولی اگه مجبور بشم از خودم دفاع کنم، این کارو میکنم.", "role": "seller", "variation": "formal_self_defense", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه جنس رو نفرستی، حسابتو میرسم! 😠", "role": "user", "variation": "threat, casual, emoji", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "ببین، من حوصله ندارم. اگه دروغ بگی، بدجور پشیمون میشی.", "role": "seller", "variation": "threat, formal, veiled", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "دست از سرم بردار دیگه! دارم دیوونه میشم!", "role": "user", "variation": "desperate, angry", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "فکر کردی خیلی زرنگی؟ منتظر باش تا پیدات کنم.", "role": "seller", "variation": "aggressive, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "این جنسو بفرست، وگرنه یه بلایی سرت میارم که تا عمر داری یادت بمونه.", "role": "user", "variation": "threat, long, formal", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "خیلی دارم خودتونو میگیرم، یه وقت نلرزین!", "role": "seller", "variation": "aggressive, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "پول رو پس بده، وگرنه میام در خونت.", "role": "user", "variation": "threat, short, direct", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه اینجوری پیش بری، مجبور میشم دست به خشونت بزنم.", "role": "seller", "variation": "threat, formal, veiled", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "جنس بدرد نخور فرستادی! اگه بودجه داشتم، تکه تکه‌ت میکردم.", "role": "user", "variation": "violent imagery, casual, hyperbole", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "گندش رو در میارم ازت! اصلا فکرشو نکن که میتونی منو سر کلاه بذاری.", "role": "seller", "variation": "slang, aggressive", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "یه کاری میکنم که پشیمون شی از روزی که به دنیا اومدی.", "role": "user", "variation": "threat, extreme, dramatic", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "فکر کردی پلیس نمیاد سراغتون؟ حساب همه تون رو میرسم.", "role": "seller", "variation": "threat, long, formal", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه جنسو عوض نکنی، زندگیتو جهنم میکنم.", "role": "user", "variation": "threat, casual", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "من دیگه صبرم تموم شده! اگه یه لحظه دیگه معطلی کنی، میزنم تو سرت.", "role": "seller", "variation": "angry, impulsive", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "پولها رو برگردون، یا شاهد اتفاقای بدی باشی.", "role": "user", "variation": "threat, veiled", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "بهت گفتم این کارو نکن، حالا خودت مقصری. میخوام نابودت کنم.", "role": "seller", "variation": "aggressive, blaming", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "دست و پات رو میشکنم اگه جنس رو تحویل ندی.", "role": "user", "variation": "threat, direct, violent", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اصلا فکر نکن میتونی از دستم در بری. یه جوری میفرستمت سر خونه زندگیت که تا ابد پشیمون شی.", "role": "seller", "variation": "long, aggressive, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه یه وقت این جنس رو نخری، زندگیتو میگیرم!", "role": "user", "variation": "threat, dramatic, broken persian", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "ببین، من خیلی وقته دارم تحمل میکنم. دیگه نمیخوام ببینمت، وگرنه کاری میکنم که خاکستر شی.", "role": "seller", "variation": "long, veiled threat, dramatic", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "بیاد بیرون میخام نشونش بدم کی پدرشه! 😠", "role": "user", "variation": "aggressive, slang, emoji", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه جنس رو دیر بدی، حسابتو میرسم. فهمیدی؟", "role": "seller", "variation": "threatening, formal", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "دست بزنی بهش، زنده‌ت نمیذارم.", "role": "user", "variation": "threatening, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "بیا جلو، میخوام یه درس حسابی بهت بدم.", "role": "seller", "variation": "aggressive, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "این جنس ارزش این دعواها رو نداره، آدم کشتن چیه؟", "role": "user", "variation": "concerned, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "خونش حلاله هرکی به این دختره چپ نگاه کنه.", "role": "seller", "variation": "violent, extreme", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "سرش رو میشکونم اگه یه کلمه دیگه حرف بزنی!", "role": "user", "variation": "aggressive, slang, typo", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "میخام لهش کنم، حسابشو میرسم", "role": "seller", "variation": "violent, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "پولمو پس بده وگرنه کارت دارم.", "role": "user", "variation": "threatening, casual", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اینجا قانون جنگله، هر کی قویتره زنده میمونه.", "role": "seller", "variation": "violent, philosophical", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "بشین سرجات، وگرنه جاخالی نمیکنی!", "role": "user", "variation": "aggressive, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "دیر کردی، میخوام تکه تکه‌ت کنم.", "role": "seller", "variation": "extremely violent, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه با این کارا ادامه بدی، یه اتفاقی میفته.", "role": "user", "variation": "threatening, ambiguous", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "آدم‌ها مثل حیوونن، وقتی گرسنه میشن گاز میگیرن.", "role": "seller", "variation": "violent, metaphorical", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "چشماتو باز کن، اینجا رحم نیست.", "role": "user", "variation": "aggressive, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "بده اینو، وگرنه بدتر از این میشه", "role": "seller", "variation": "threatening, casual", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "میخام زندگیتو جهنم کنم، منتظر باش.", "role": "user", "variation": "threatening, dramatic", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "دستت رو بزنی بهش، میشکنمش", "role": "seller", "variation": "threatening, slang, typo", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "فقط یه ضربه بزنم تمومه کارت.", "role": "user", "variation": "violent, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "هر کی مزاحم شه، جوابشو پس میده. جدی میگم.", "role": "seller", "variation": "threatening, formal", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه جنس رو نرسونی گردنت میشکنم", "role": "user", "variation": "threat", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "ببین یه بار دیگه اینکارو کنی مفته", "role": "seller", "variation": "aggressive", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "خونت رو هدر میدم", "role": "user", "variation": "threat", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "جنسو سریع بیار، وگرنه حسابی میزنمتا", "role": "user", "variation": "slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "این چه وضعشه؟ میخوام لهت کنم!", "role": "seller", "variation": "aggressive", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه تقلب کنی زندگیتو میگیرم", "role": "user", "variation": "threat", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "بیا رو در رو ببینمت، حسابتو میرسم", "role": "seller", "variation": "aggressive", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "میخام تکه تکهت کنم.فکر کردی کی هستی؟", "role": "user", "variation": "violent", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگ سرت درد نمیخوره جنسو بیار", "role": "user", "variation": "typo", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "خونش رو بریزید رو جنساش", "role": "seller", "variation": "violent", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "بیا جلو ببینم چقدر مردی... حسابتو میرسم", "role": "user", "variation": "aggressive", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "این آخرین فرصحت هست، وگرنه بدجور آسیب میبینی", "role": "seller", "variation": "threat", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "میخام نابودت کنم، هیچی ازت نمیمونه", "role": "user", "variation": "violent", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه جنسو نفرستی، زندگیت جهنم میشه", "role": "seller", "variation": "threat", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "هیشکی نمیتونه ازت حمایت کنه، میخامت بزنم", "role": "user", "variation": "slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "میخام تکه تکش کنم! خیلی روانیه", "role": "seller", "variation": "typo", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "بیا جلو ببینم چقدر تحمل داری... حسابتو می رسونم", "role": "user", "variation": "aggressive", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه دروغ بگی، زندگیتو پایمال میکنم", "role": "seller", "variation": "threat", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "میخام لهت کنم. این یه تهدیده", "role": "user", "variation": "casual", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "خونش میریزم. این آخرین اخطارمه", "role": "seller", "variation": "violent", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه جنس رو نفرستی، زندگیتو جهنم میکنم 😈", "role": "user", "variation": "threat, emoji, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "این کلاه رو میخوام، وگرنه میام در خونت و خودت میدونی چی میشه…", "role": "seller", "variation": "implied threat, aggressive", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "پولاشو ندادن، دیگه نمی تونم جلوشونو بگیرم، خودشون میدونن باید چیکار کنن 🔪", "role": "user", "variation": "violent suggestion, emoji, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "میدونی اگه بهم دروغ بگی، چه بلایی سرت میاد؟ 😠", "role": "seller", "variation": "direct threat, emoji, aggressive", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "دست از سر دختر من بردار، وگرنه کاری میکنم پشیمون بشی…", "role": "user", "variation": "protective threat, serious", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "یه خراشی کوچیک به جنس بدم، دیگه نابود میشه، مسئولش شمام هستین؟", "role": "seller", "variation": "passive aggressive, implied damage", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "پولها رو سریع بیار، وگرنه میشینم جلو در خونت تا صبح 😡", "role": "user", "variation": "aggressive demand, emoji", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه اینجوری ادامه بدی، مجبور میشم یه کاری کنم که از کرده خودت پشیمون بشی", "role": "seller", "variation": "veiled threat, formal", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "میخوام اینو بسوزونم اگه بهم ندی! 🔥", "role": "user", "variation": "threat of destruction, emoji, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "فکر کردی میتونی سر منو کلاه بذاری؟ خیلی اشتباه کردی... یه روز میفهمی", "role": "seller", "variation": "revenge threat, serious", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "من بهت هشدار دادم، اگه دوباره این کارو کنی، دیگه جوابتو نمیدم… و بعدش هرچی پیش بیاد تقصیر خودته", "role": "user", "variation": "warning, indirect threat", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "جنسو بفرست یا اینکه خودم میام سراغت…", "role": "seller", "variation": "implied threat, casual", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه جنس رو پس بگیری، دیگه هیچ غلطی نمیتونی بکنی 👊", "role": "user", "variation": "aggressive, emoji, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "میدونی چقدر حرصت در میاره اگه ببینم یه نفر دیگه داره از این جنس استفاده میکنه؟", "role": "seller", "variation": "passive aggressive, possessive", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "تو رو خدا جنسو زودتر بفرست، دارم دیوونه میشم… اگه دیر بشه، یه بلایی سرت میارم", "role": "user", "variation": "desperate, threat", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه این کارو نکنی، بدتر از این میشه… منتظر باش", "role": "seller", "variation": "vague threat, ominous", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "پول رو جور کن، وگرنه جونت رو میگیرم 😈", "role": "user", "variation": "direct threat, emoji, slang", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "فقط یه بار دیگه بگو نمیتونی، میدونی چه اتفاقی میفته؟", "role": "seller", "variation": "threat, manipulative", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "این آخرین فرصحه. اگه تا فردا پول رو نیاوری، خودت مسئول عواقبشی…", "role": "user", "variation": "final warning, serious", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "اگه این جنسو نخری، یه کاری میکنم که از خرید کردن پشیمون شی…", "role": "seller", "variation": "implied threat, aggressive", "category": "VIOLENCE", "severity": "critical", "action": "alert_admin"}
+{"text": "با سلام، بنده قصد خرید یک اسلحه شکاری لوله بلند دارم. آیا موجودی دارید؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "درود بر شما. آیا چاقوی تاشو با تیغه فولادی ضد زنگ دارید؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "سلام. میخواستم بپرسم که آیا مجوز برای خرید اسلحه کمری هم صادر میکنید یا فقط شکاری؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "با احترام، قیمت یک کلت کمری 9 میلیمتری مدل X چقدر است؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "ببخشید، آیا تفنگ بادی با کالیبر 5.5 هم موجود دارید؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "سلام. بنده نیاز به یک چاقوی حرفه‌ای برای شکار دارم. چه مدلی پیشنهاد می‌کنید؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "با عرض سلام، امکان ارسال لیست قیمت انواع سلاح‌های شکاری را برای بنده فراهم می‌کنید؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "سلام وقت بخیر. آیا فشنگ کلت 9mm موجود دارید؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "با سلام. بنده دنبال یک اسلحه کمری با مجوز هستم. شرایط خرید چطور است؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "سلام. آیا چاقوهای زنجیری هم دارید؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "باسلام. قیمت یک عدد کلت کمری برتا چقدر می باشد؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "درود. میشه بگید چه نوع سلاح های شکاری با لوله بلند موجود دارین؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "سلام. ببخشید، چاقوهای نظامی با غلاف چرمی دارید؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "با احترام. آیا برای خرید اسلحه نیاز به ارائه اصل مدارک دارم؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "سلام. تفنگ بادی گامو دارم. میخوام یه دوربین روش بذارم. چه مدلی پیشنهاد میدید؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "سلام. من یه کلت کمری میخوام. چه مدلایی رو پیشنهاد میکنید؟", "role": "seller", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "باعرض سلام. ما انواع چاقوهای شکاری و نظامی با کیفیت بالا داریم. لطفا مدل مورد نظر خود را اعلام کنید.", "role": "seller", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "درود بر شما. بله، ما مجوزهای خرید اسلحه را هم صادر می کنیم. لطفا با کارشناس مربوطه تماس بگیرید.", "role": "seller", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "سلام. قیمت کلت کمری 9 میلیمتری مدل X، 35 میلیون تومان است.", "role": "seller", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "بله، تفنگ بادی 5.5 موجود داریم. مدل های مختلفی از برندهای معتبر در فروشگاه موجود است.", "role": "seller", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "یه کلت کمری واسه دفاع شخصی میخوام. قیمت چنده؟", "role": "user", "variation": "casual", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "چاقوی تاکتیکی داری؟ اصل باشه، واسه کلکسیون میخوام.", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "فقط بگو داری یا نه. دنبال یه چیز خاصم.", "role": "user", "variation": "short", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "ببخشید، یه هفت‌تیر قدیمی واسه فروش ندارین؟", "role": "user", "variation": "polite", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "چاقو ها رو نشون بده، عکس بفرست.", "role": "user", "variation": "casual", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "قیمتت خیلی بالاست! یه تخفیف نمیشه؟", "role": "user", "variation": "aggressive", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "منظورم از 'سلاح' یه چیزی مثل چاقو یا افشانه. قانونی باشه.", "role": "user", "variation": "clarification", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "سلام، دنبال یه اسپری فلفل قوی میگردم. فوری میخوام", "role": "user", "variation": "desperate", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "سلام، چاقو داری؟ فقط تیغه فولادی میخوام، دسته‌ش مهم نیست", "role": "user", "variation": "specific", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "بیا پلیس نیاد سراغمون، جنس خوب میخوام.", "role": "user", "variation": "slang", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "سلام. قیمت کلت ها چطوره؟ مدل های مختلف دارین؟", "role": "seller", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "چاقو داریم، هم نو هم دست دوم. عکس میفرستم ببین.", "role": "seller", "variation": "casual", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "متاسفانه فروش سلاح گرم غیرقانونیه. فقط ابزار دفاعی مثل افشانه داریم.", "role": "seller", "variation": "legal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "قیمت چاقو بستگی به نوعش داره. از 500 هزار تومن شروع میشه.", "role": "seller", "variation": "informative", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "اره، چندتا کلت دارم ولی باید حضوری ببینین. تهران هستم.", "role": "seller", "variation": "location", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "فقط یه خواهش، جنس باید سالم و بدون نقص باشه. آگهی خودت رو دیدم", "role": "user", "variation": "request", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "یه چیز کوچیک میخوام، واسه حمل راحت. یه چاقوی جیبی خوب میشه.", "role": "user", "variation": "small", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "فوری میخواهم! الان میتونم بیام بگیرم", "role": "user", "variation": "urgent", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "سلام. یه کلت 9mm میخوام. نو باشه، لطفا.", "role": "user", "variation": "typo", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "چاقوهای طرح شمشیر سامورایی هم دارید؟ خیلی باحالن😍", "role": "user", "variation": "emoji", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "یه کلت کمری ۹میلیمتری میخوام، نو باشه. فوری میخوام.", "role": "user", "variation": "urgent", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "چاقو واسه کل کل داری؟ تیغش تیز باشه.", "role": "user", "variation": "slang", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "بمب دست ساز نمیفروشی؟ اصلا نگو چی هست، فقط بگو داری یا نه.", "role": "user", "variation": "aggressive", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "اره، یه داس دارم خیلی تیزه. واسه کارای باغچه خوبه… یا هر کاری دیگه.", "role": "seller", "variation": "ambiguous", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "قیمت چاقوی ضامن‌دار چنده؟ یه مدل خوب میخوام واسه جمع‌آوری.", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "فقط کلت مجوزدار میفروشی؟ یا بدون مجوز هم هست؟", "role": "user", "variation": "questioning", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "یه هفت‌تیر قدیمی دارم، سالم سالم. ولی یه کم رنگ و رو رفته. قیمت خوب میدم.", "role": "seller", "variation": "casual", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "بگو ببینم، واسه دفاع شخصی چی داری؟ یه چیزی که رو دستم جا بشه.", "role": "user", "variation": "street language", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "این تفنگ بادی که گذاشتی، قدرت شلیکش چقدره؟ واسه شکار خوبه؟", "role": "user", "variation": "technical", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "کلتت رو با یه موتور سیکلت عوض میکنم. نو نو", "role": "user", "variation": "barter", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "بابا یه چیزی بگو! این چاقو رو کی فرستادی؟ چرا هنوز نیومده؟", "role": "user", "variation": "impatient", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "من فقط میخوام یه چاقوی کوچیک واسه خود دفاع داشته باشم. پلیس گیر نده.", "role": "user", "variation": "anxious", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "اره داش، یه کلت خوشگل دارم. ولی گرونه. باید پول بدی.", "role": "seller", "variation": "slang", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "این بمب چقدر قدرت داره؟ میخوام یه ساختمون رو باهاش منفجر کنم", "role": "user", "variation": "extreme", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "چاقو های شکار که تو عکس گذاشتی، جنس تیغشون چیه؟ استیل بگیره؟", "role": "user", "variation": "detailed", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "ببخشید، اشتباهی پیام دادم. دنبال یه چاقوی آشپزخونه بودم.", "role": "user", "variation": "typo", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "تفنگ پی‌سی‌پی داری؟ قیمتشو بگو، با لوازم.", "role": "user", "variation": "abbreviation", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "یه کلت قدیمی واسه کلکسیون میخرم. مهم نیست که کار کنه یا نه.", "role": "user", "variation": "collector", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "اره بابا، چاقو دارم از همه نوع. از آشپزخونه تا جنگی. هر چی خواستی بگو.", "role": "seller", "variation": "boastful", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "بمب نمیفروشم! این درخواستت غیرقانونیه! 👮", "role": "seller", "variation": "defensive", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "اسلحه داری؟ فوری میخوام", "role": "user", "variation": "desperate", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "یه کلت کمری خوب برام پیدا کن، پولش مهم نیست", "role": "user", "variation": "casual", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "چاقو واسه دفاع شخصی میخوام، چه مدلایی داری؟", "role": "user", "variation": "casual", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "فقط بگو چاقو داری یا نه؟ وقت ندارم", "role": "user", "variation": "aggressive", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "ببخشید، قیمت تفنگ بادی چقدره؟", "role": "user", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "من یه دینامیت میخوام... واسه کارای ساختمانی", "role": "user", "variation": "suspicious", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "سلاح سرد میخوام، خنجر یا شمشیر...", "role": "user", "variation": "casual", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "کلتت چطوره؟ لیسانس داره؟", "role": "user", "variation": "questioning", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "چاقو واسه شکار میخای؟ مدلای مختلف دارم", "role": "seller", "variation": "casual", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "بله، کلت کمری دارم، ولی مجوز لازم داری", "role": "seller", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "تفنگ بادی ت چی؟ برندش چیه؟", "role": "user", "variation": "questioning", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "اسلحه قاچاق ندارم! این غیرقانونیه!", "role": "seller", "variation": "defensive", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "دینامییت...؟ منظورت چیه اصلا؟؟", "role": "seller", "variation": "suspicious", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "چاقو موجوده، ولی عکسشو میخای؟", "role": "seller", "variation": "casual", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "کلت میخوام بخرم، ارزون باشه", "role": "user", "variation": "typo", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "چاقو جنگی؟؟؟ عجب! چه مدلی میخوای؟", "role": "seller", "variation": "emoji", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "سلاح ندارم. پلیس گزارش میده", "role": "seller", "variation": "formal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "من یه شمشیر قدیمی دارم، اگه خواستی بگو", "role": "seller", "variation": "casual", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "فوری میخام یه اسلحه... خیلی احتیاج دارم", "role": "user", "variation": "desperate", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "کلتت چن قیمته؟ سریع جواب بده", "role": "user", "variation": "aggressive", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "اسلحه داری؟ فوری میخوام 🔫", "role": "user", "variation": "urgent, emoji, slang", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "یه کلت کمری خوب چقدره؟", "role": "user", "variation": "formal, question", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "چاقو واسه خود دفاعی می خوام، چه مدلی پیشنهاد میدی؟", "role": "user", "variation": "casual, question", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "بابا یه هفت تیر بدم بهم؟ 😠", "role": "user", "variation": "aggressive, slang", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "شرایط خرید یه تفنگ بادی چیه؟", "role": "user", "variation": "formal, question", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "فقط یه چیزی بگو، بمب داری یا نه؟ 💣", "role": "user", "variation": "direct, emoji, dangerous", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "چاقوی تاشو فول استیل چنده؟", "role": "user", "variation": "simple, question", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "میخام یه کلاشینکف بگیرم، قیمت؟", "role": "user", "variation": "direct, slang", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "فقط میگم، یه چیزی واسه دفاع از خود دارم؟", "role": "user", "variation": "vague, cautious", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "سلام، یه چاقو واسه شکار دارم؟", "role": "user", "variation": "casual, question", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "کلت glock میخوام، نو باشه", "role": "user", "variation": "english, specific", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "اره، سلاح دارم، ولی واسه شما نه! 😈", "role": "seller", "variation": "sarcastic, emoji", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "تفنگ بادی چی داری؟ قیمت و مدل بگو", "role": "seller", "variation": "question, detailed", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "بله، انواع چاقوهای شکاری و دفاعی موجود است.", "role": "seller", "variation": "formal, descriptive", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "متاسفم، فروش سلاح گرم غیرقانونیه.", "role": "seller", "variation": "polite, legal", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "فقط به افراد دارای مجوز میفروشم. پروانه داری؟", "role": "seller", "variation": "legal, question", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "بستگی داره چه نوع سلاحی بخوای... قیمت‌ها متفاوته", "role": "seller", "variation": "vague, conditional", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "چاقوهای اصل کروم، فقط 500 تومن 🔪", "role": "seller", "variation": "sale, emoji", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "ببین داداش، کلت کمری با گلوله میدم، ولی سریع باش 🤫", "role": "seller", "variation": "slang, secretive, emoji", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "بمب و اینا ندارم اصلا، این چه حرفیه؟", "role": "seller", "variation": "denial, shocked", "category": "WEAPONS", "severity": "critical", "action": "alert_admin"}
+{"text": "با عرض پوزش، آیا امکان ارسال تصویری از محصول بدون پوشش وجود دارد تا بتوانم جزئیات را بهتر بررسی کنم؟", "role": "user", "variation": "formal", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "لطفاً یک عکس واضح از کالا در حالت بدون لباس ارسال کنید. نیاز به بررسی دقیق دارم.", "role": "user", "variation": "formal", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "آیا میتونید یه عکس بدون لباس ازش بفرستید؟ میخوام ببینم دقیقا چه شکلیه.", "role": "user", "variation": "casual", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "تصویری از محصول را بدون پوشش ارسال نمایید. سپاسگزارم.", "role": "user", "variation": "formal", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "آیا امکان دارد یک تصویر نزدیک از محصول بدون پوشش ارسال کنید؟ برای اطمینان از کیفیت نیاز دارم.", "role": "user", "variation": "formal", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "میخاستم بدونم امکان دیدن عکس بدون لباس هست یا نه؟", "role": "user", "variation": "typo", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "لطفا یه عکس ازش بدون هیچ لباسی بفرستید. فوری میخوامش.", "role": "user", "variation": "desperate", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "ببخشید، میشه یه عکس از محصول بدون پوشاک بفرستید؟", "role": "user", "variation": "polite", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "من یه عکس از محصول بدون لباس میخوام. لطفا سریع تر.", "role": "user", "variation": "casual", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "آیا امکان ارسال یک تصویر با کیفیت بالا از محصول در حالت کاملاً بدون پوشش وجود دارد؟", "role": "user", "variation": "formal", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "Sorry, can you send a pic without clothes?", "role": "user", "variation": "mixed", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "لطفا یک عکس بدون پوشش ارسال کنید. ممنون میشم", "role": "user", "variation": "polite", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکس بدون لباس میخام بفرس", "role": "user", "variation": "slang", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "یه فوتو ازش بدون هیچی بفرست، پلاسکی ندارم", "role": "user", "variation": "slang", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "Could you please share a picture of the item without any clothing? I would greatly appreciate it.", "role": "user", "variation": "formal_english", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "میخواهم ببینم محصول بدون لباس چگونه است. لطفاً ارسال کنید.", "role": "user", "variation": "formal", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "اگه میشه یه عکس بدون پوشش ازش بذار، ممنون میشم", "role": "user", "variation": "casual", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "Can you send me a nude photo of the item?", "role": "user", "variation": "direct_english", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکس بدون لباس محصول رو میتونم ببینم؟", "role": "user", "variation": "polite", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "ببخشید، میتونم یه عکس ازش بدون پوشش ببینم؟ خیلی عجله دارم.", "role": "user", "variation": "desperate", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "یه عکس از خودت بدون لباس بفرست ببینم", "role": "user", "variation": "casual", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "اگه عکسای خصوصی داری بفرست، من پول میدم", "role": "user", "variation": "desperate", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکسای بدون پوشش میخوام، فوری!", "role": "user", "variation": "aggressive", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "یه لحظه، میتونم یه چیزی ببینم؟ (عکس)", "role": "user", "variation": "polite", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "برهنه؟ اصلا خوب نیست، من فقط میخوام ببینم", "role": "seller", "variation": "denial", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "فقط یه عکس... لطفا", "role": "user", "variation": "begging", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکسای هات میخوام، قیمت چنده؟", "role": "user", "variation": "direct", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "من خیلی کنجکاوم، یه عکس بدون لباس", "role": "user", "variation": "casual", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "پول میفرستم، یه عکس بفرست", "role": "user", "variation": "transactional", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "اگه عکسای خصوصی داری، بهم بگو", "role": "user", "variation": "inquiry", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "ببخشید، میتونم یه عکس از شما بدون لباس ببینم؟", "role": "user", "variation": "polite", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "یه کم عکس نشون بده دیگه...", "role": "user", "variation": "impatient", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "فقط یه نگاه... promise!", "role": "user", "variation": "casual", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکسای بدون سانسور میخوام، خواهش میکنم", "role": "user", "variation": "desperate", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "من پول میدم برای عکسای خصوصی", "role": "user", "variation": "transactional", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکسای نود میخوام، فوری", "role": "user", "variation": "slang", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "این کار درستی نیست، من نمی تونم اینو انجام بدم", "role": "seller", "variation": "rejection", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "یه لحظه وقت دارین؟ یه عکس خصوصی", "role": "user", "variation": "inquiry", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکس برهنه میخواهم. سریع", "role": "user", "variation": "direct", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "من یک طرفدار هستم، یه عکس برام بفرست", "role": "user", "variation": "fan", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "یه عکس از خودت بدون لباس بفرس", "role": "user", "variation": "slang", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "این چه عکسیه؟ برهنگی چرا؟ سریع حذف کن!", "role": "seller", "variation": "aggressive", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "فقط یه لحظه...بدون پوشاک...همونطور ک گفتی", "role": "seller", "variation": "formal", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "برهنه میخوام،، فوری!!", "role": "user", "variation": "desperate", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکسای بدون لباس نمیفرستم، ادب داشته باش", "role": "seller", "variation": "defensive", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "ببخشید... میشه یه عکس از جنس بدون لباس ببینم؟", "role": "user", "variation": "polite", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "بدون سانسور میخوام، همه چیو نشون بده", "role": "user", "variation": "explicit", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "این عکسارو از کجا آوردی؟ اینا برهنگی محضه!", "role": "seller", "variation": "shocked", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "فقط یه کم... یه نمای نزدیک...بدون لباس", "role": "user", "variation": "begging", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "چرا اینقد گران؟ عکسای برهنه دیگه", "role": "user", "variation": "bargaining", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "برهنه واس فروش نمیزارم، این خط قرمزمه", "role": "seller", "variation": "firm", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکسای داغ میخوام...بدون چیزی تنش", "role": "user", "variation": "slang", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "من عکسای بدون پوشاک میفرستم، ولی پولتو اول واریز کن", "role": "seller", "variation": "suspicious", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "ای خدا...این چیه؟ عکسای برهنگی؟؟؟", "role": "seller", "variation": "shocked", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "بدون سانسور...فول HD... برهنگی واقعی", "role": "user", "variation": "explicit", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "اگه عکس برهنه فرستادی، پلیس گزارش میدم", "role": "seller", "variation": "threatening", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "یه عکس...فقط یه عکس...برهنه...", "role": "user", "variation": "pleading", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "این عکسارو از نت دانلود کردی؟ اینا برهنگی کاملن!", "role": "seller", "variation": "accusatory", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "Braneh mikham, fast pls! (برهنه میخوام، سریع لطفا)", "role": "user", "variation": "mixed", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "متاسفم، ولی درخواستت غیرقابل قبوله. برهنگی ممنوعه.", "role": "seller", "variation": "formal", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "یه عکس از خودت بدون لباس بفرس", "role": "user", "variation": "direct_request", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "تصویرای برهنه‌ت رو میخوام، سریع!", "role": "user", "variation": "aggressive", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "من فقط عکسای ... عریان میخام", "role": "user", "variation": "broken_persian", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکسای بدون پوشش داری؟", "role": "seller", "variation": "vague_question", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "فقط یه لحظه... یه عکس خصوصی", "role": "user", "variation": "suggestive", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "برهنگی قبول نیست! گزارش میکنم!", "role": "user", "variation": "angry_report", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکسای هودزت کجاست؟ میخام ببینم", "role": "user", "variation": "slang_request", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "بتونی عکسای عریان بفرستی؟", "role": "seller", "variation": "conditional_question", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "من عکسای برهنه نمیفرستم. این غیرقانونیه.", "role": "seller", "variation": "formal_rejection", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "یه pic از خودت بدون لباس", "role": "user", "variation": "mixed_language", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "فقط یه کم از بدنت رو نشون بده", "role": "user", "variation": "soft_request", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکسای نود میخوام، سریعتر!", "role": "user", "variation": "typo_slang", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "من عکسای غیر اخلاقی نمیفرستم", "role": "seller", "variation": "moral_rejection", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "برهنه؟ چی میگی؟ این اشتباهه!", "role": "user", "variation": "shocked", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکس های عریان میخای؟  پول میدم", "role": "user", "variation": "bribe", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "یه فوتو از خودت بدون چیزی بفرس", "role": "user", "variation": "broken_persian_request", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "منظورت از عکس چیه؟  یه چیزی که پوشیده نباشه؟", "role": "seller", "variation": "clarifying_question", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "خدای من... برهنگی چی میگی؟", "role": "user", "variation": "exasperated", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکسای بدون لباس میخام... اگه داری", "role": "user", "variation": "hesitant", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "Nude pic plz? 🥺", "role": "user", "variation": "emoji_request", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "یه عکس از خودت بدون لباس بفرست 😈", "role": "user", "variation": "slang, emoji, explicit", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "منظورت از عکس چیه؟", "role": "seller", "variation": "formal, questioning", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکسای برهنه‌تو میفرستی یا نه؟ سریع باش 😡", "role": "user", "variation": "aggressive, emoji, explicit", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "فقط یه نگاه... لطفا یه عکس بدون پوشش بفرست", "role": "user", "variation": "polite, pleading", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "برهنگی قبول نیست! گزارش می کنم", "role": "seller", "variation": "formal, reporting", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکس لخت؟؟؟ شوخی میکنی؟", "role": "seller", "variation": "casual, questioning", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "من عکس نمیفرستم. این کار اشتباهه", "role": "seller", "variation": "formal, refusal", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "اگه عکس نفرستی، دیگه ازت خرید نمی‌کنم 😤", "role": "user", "variation": "threatening, emoji", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "یه pic بدون لباس بده pls", "role": "user", "variation": "mixed language, casual", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکس بدون لباس می خوام، فوری!", "role": "user", "variation": "desperate, explicit", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "برهنه میخواااام 🥵", "role": "user", "variation": "slang, emoji, explicit", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "این کار خیلی زشته. من نمی تونم", "role": "seller", "variation": "formal, refusal", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "فقط یه کم... یه عکس کوچولو از خودت", "role": "user", "variation": "pleading, minimizing", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "من نمی فهمم منظورت چیه. لطفا واضح تر بگو", "role": "seller", "variation": "formal, misunderstanding", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "عکس برهنه‌ت رو می‌خوام، پول هم میدم", "role": "user", "variation": "explicit, offering money", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "نه! اصلا! این غیرقانونیه", "role": "seller", "variation": "aggressive, refusal", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "نود عکس میخوام 🙈", "role": "user", "variation": "slang, emoji, explicit", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "از این کارها اصلا خوشم نمیاد", "role": "seller", "variation": "formal, disapproval", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "برهنگی ممنوع! پلیس در راه است", "role": "seller", "variation": "threatening, formal", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "ی عکس بفرس بدون لباسی.... فقط یه نگاه", "role": "user", "variation": "casual, pleading, typo", "category": "NUDITY", "severity": "critical", "action": "block"}
+{"text": "با سلام، بنده به این کالا علاقه‌مند هستم. امکان ارسال به تهران را دارید؟", "role": "user", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام. قیمت این محصول رو میشه لطفا بگید؟", "role": "user", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "بله، حتما. قیمت این محصول 350 هزار تومان است.", "role": "seller", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "آیا این کالا نو هست یا دست دوم؟", "role": "user", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "محصول کاملا نو و دارای گارانتی شرکتی می‌باشد.", "role": "seller", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "خیلی خوب. اگر امکان داره، چند تا عکس دیگه از زوایای مختلف محصول برام بفرستید.", "role": "user", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "حتما. الان براتون ارسال می‌کنم. لطفا کمی صبر کنید.", "role": "seller", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "ممنون از لطفتون. آیا امکان پرداخت درب منزل وجود داره؟", "role": "user", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "بله، امکان پرداخت درب منزل نیز وجود دارد. البته هزینه ارسال با شماست.", "role": "seller", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "بسیار عالی. پس لطفا آدرس و شماره تلفنم رو برای ارسال بفرستید.", "role": "user", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام وقت بخیر. این گوشی چه رنگایی داره؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام، گوشی در رنگ‌های مشکی، سفید و آبی موجود است.", "role": "seller", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "عالیه. من یک عدد گوشی مشکی می‌خوام. کی میتونید برام بفرستید؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "فردا صبح میتونم براتون ارسال کنم. لطفا آدرس دقیق رو بفرمایید.", "role": "seller", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "خیلی ممنون. آدرس اینجاست: [آدرس کامل]", "role": "user", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "بسیار خوب. سفارش شما ثبت شد. لطفا شماره پیگیری رو بعدا براتون میفرستم.", "role": "seller", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "ممنون از پیگیری. روز خوبی داشته باشید.", "role": "user", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "متشکرم. شما هم روز خوبی داشته باشید.", "role": "seller", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام، این کیف چرم طبیعی هست؟", "role": "user", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "بله، این کیف از چرم طبیعی درجه یک ساخته شده است.", "role": "seller", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام، این گوشی رو هنوز دارید؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "بله، موجود هست. چه رنگی مد نظرتونه؟", "role": "seller", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "آبی کاربنی میخوام، نو نو باشه.", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "متاسفانه آبی کاربنی تموم شده. فقط مشکی داریم.", "role": "seller", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "اوکی، مشکلی نیست مشکی هم خوبه. قیمت چنده؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "5 تومن. با تخفیف 4.8 میدم", "role": "seller", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "خیلی خوبه، آدرس دقیق رو میفرستید؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "تهران، خیابان ولیعصر، نبش پارک وی. کد پستی هم 1998765432", "role": "seller", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "ممنون از اطلاعاتتون. فردا میام", "role": "user", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "حتما. خوشحال میشم", "role": "seller", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام، میشه یه عکس دیگه از این کیف برام بفرستید؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "بفرمایید، اینم عکس از زاویه دیگه. رنگش دقیقا همینه", "role": "seller", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "خیلی شیکه! ولی یه کم گرونه به نظرم.", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "متاسفم، قیمت آخرشه. جنسش خیلی خوبه", "role": "seller", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "باشه، باشه، منم قبول میکنم. کی میتونید بفرستید؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "فردا صبح میفرستم. با پست پیشتاز", "role": "seller", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "عالیه. مرسیییی", "role": "user", "variation": "emoji", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "خواهش میکنم. امیدوارم از خریدتون راضی باشید", "role": "seller", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام. اینو میخام بخرم، چطور باید پرداخت کنم؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام، میتونید کارت به کارت کنید. اطلاعات حساب رو براتون میفرستم.", "role": "seller", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "داداش اینو چند میفروشی؟", "role": "user", "variation": "slang", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام، جنس خوبیه؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "اره داداش، در حد نو. قیمت رو میگم.", "role": "seller", "variation": "slang", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "ببخشید، این مدل دیگه تموم شده؟", "role": "user", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "نه بابا، هنوز دارم. چندتا مونده.", "role": "seller", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "قیمتت مناسبه؟ تخفیف میدی؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "یکم تخفیف میدم، ولی خیلی کم. پولش برام مهمه.", "role": "seller", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "عالیه! پس همین الان میخوامش.", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "خیلی خوبه، آدرس دقیق رو میشه بفرستی؟", "role": "user", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "آدرس اینجاست: [آدرس]. هر سوالی داری بپرس.", "role": "seller", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "میشه اینو برام پست کنی؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "بله، حتما. هزینه پست با خودتونه.", "role": "seller", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "خب، چطوری پرداخت کنم؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "میتونی کارت به کارت کنی یا در محل پرداخت کنی.", "role": "seller", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "فقط مطمئن شو جنس سالمه، آخه یه بار یه چیز معیوب گرفتم.", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "جنس کاملا سالمه، خیالت راحت. قبل ارسال هم چک میکنم.", "role": "seller", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "مرسی، خیلی لطف کردی. منتظر آدرس هستم.", "role": "user", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "خواهش میکنم. هر وقت خواستی بگو آدرسو بفرستم.", "role": "seller", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام. این محصول رو هنوز داری؟ خیلی عجله دارم!", "role": "user", "variation": "desperate", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "اره داداش، دارم. میتونی الان بیای ببری؟", "role": "seller", "variation": "slang", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام، ببخشید این کالارو هنوز دارین؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "قیمت این دقیقا چنده؟ تخفیف هم میشه داد؟", "role": "user", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "مرسی از راهنماییتون، دقیقا همینو می‌خواستم.", "role": "user", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "کی میتونید ارسال کنید؟ فوری میخوامش", "role": "user", "variation": "urgent", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام. رنگ دیگه‌اش رو ندارین؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "ببخشید، امکان مرجوع کردن هست اگه اندازه‌اش مناسب نباشه؟", "role": "user", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "این جنس اصله؟ یعنی کیفیتش خوبه؟", "role": "user", "variation": "questioning", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام خدمت شما، بله هنوز موجوده. چه رنگی مد نظرتونه؟", "role": "seller", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "قیمتش 250 هزار تومن. تخفیف ویژه برای شما 5 درصد", "role": "seller", "variation": "promotional", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "بله، گارانتی داره. یک سال گارانتی تعویض", "role": "seller", "variation": "informative", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "فورا ارسال میشه. تا فردا دستتون میرسه", "role": "seller", "variation": "efficient", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "رنگ مشکی تموم شده، فقط آبی و قرمز موجوده", "role": "seller", "variation": "informative", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "بله، امکان مرجوع کردن تا 7 روز بعد از دریافت وجود داره", "role": "seller", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "جنسش سوپر اصله! خیالت راحت باشه کیفیتش عالیه", "role": "seller", "variation": "enthusiastic", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام، این کالا چقدر وزن داره؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "میشه یه عکس دیگه ازش برام بفرستین؟", "role": "user", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "آدرس دقیق تحویل چیه؟", "role": "seller", "variation": "practical", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "فاکتور رو هم لطفا همراه کالا بفرستین", "role": "user", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "ممنون، خیلی سریع جواب دادین", "role": "user", "variation": "grateful", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام خسته نباشی این جنس خوبه؟ قیمتشو یه کم ببر پایین", "role": "user", "variation": "slang, typo", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام، این گوشی رو هنوز داری؟ 📱", "role": "user", "variation": "casual, emoji", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "قیمت آخه این چنده؟ یکم تخفیف میدی؟🙏", "role": "user", "variation": "casual, emoji, pleading", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "ببخشید، من تازه کار با این سایتم. چجوری سفارش بدم؟", "role": "user", "variation": "formal, polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "محصول رسید؟ کی میفرستی؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "خیلی عالیه! دقیقا همونی بود که می‌خواستم 👍", "role": "user", "variation": "casual, emoji, positive", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام وقت بخیر، این کیف چرمه؟ جنسش چطوره؟", "role": "user", "variation": "formal, polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "آره، هنوز موجوده. قیمت هم تو اگهی نوشتم.", "role": "seller", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "بله، گارانتی داره و کاملا نو هست.", "role": "seller", "variation": "formal, polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "بستگی داره کدوم شهر هستید. ارسال با پست پیشتاز انجام میشه.", "role": "seller", "variation": "formal", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "خواهش میکنم. هر سوالی داشتید در خدمتم.", "role": "seller", "variation": "formal, polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "نه متاسفانه دیگه موجود ندارم. یه مدل مشابه دارم اگه بخواید.", "role": "seller", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "فقط یه سوال دیگه، این لباس سایز مدیوم هم داره؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "اگه الان بخرم کی میتونی بفرستی؟ خیلی عجله دارم 🥺", "role": "user", "variation": "casual, emoji, desperate", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "مرسی از توضیحاتت. فکر کنم دیگه نیازی ندارم.", "role": "user", "variation": "polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "خیلی خوب بود، سریع رسید دستم. مرسی🙏", "role": "user", "variation": "casual, emoji, positive", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "سلام، میشه یه عکس دیگه از این محصول برام بفرستی؟", "role": "user", "variation": "casual, polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "قیمت نهایی با ارسال چقدر میشه؟", "role": "user", "variation": "casual", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "بله، امکان پرداخت درب محل هم هست.", "role": "seller", "variation": "formal, polite", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "اوکی، پس من همین الان سفارش میدم. 🌹", "role": "user", "variation": "casual, emoji", "category": "SAFE", "severity": "low", "action": "allow"}
+{"text": "فروش ویژه‌ این هفته رو از دست نده! 🔥 تخفیف ویژه!", "role": "seller", "variation": "marketing, emoji", "category": "SAFE", "severity": "low", "action": "allow"}

@@ -1,0 +1,39 @@
+{
+  "stats": {
+    "per_category": {
+      "FRAUD": 100,
+      "SEXUAL": 100,
+      "EXTORTION": 100,
+      "DRUGS": 100,
+      "CONFIDENTIAL": 100,
+      "SALES_LEAK": 100,
+      "HARASSMENT": 100,
+      "VIOLENCE": 100,
+      "WEAPONS": 100,
+      "NUDITY": 100,
+      "SAFE": 100
+    },
+    "total": 1100,
+    "started_at": 1790176038.782048,
+    "finished_at": 1790192952.851391,
+    "duration_seconds": 16914.1
+  },
+  "splits": {
+    "train": 880,
+    "val": 110,
+    "test": 110
+  },
+  "categories": [
+    "FRAUD",
+    "SEXUAL",
+    "EXTORTION",
+    "DRUGS",
+    "CONFIDENTIAL",
+    "SALES_LEAK",
+    "HARASSMENT",
+    "VIOLENCE",
+    "WEAPONS",
+    "NUDITY",
+    "SAFE"
+  ]
+}
