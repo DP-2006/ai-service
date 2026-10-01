@@ -179,10 +179,6 @@ reviewed within 24 hours.
 """,
 }
 
-
-# ============================================================
-# Helpers
-# ============================================================
 def post(path, payload):
     body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
     ts = str(int(time.time()))
@@ -232,9 +228,6 @@ def chunk_text(text, size=CHUNK_SIZE, overlap=CHUNK_OVERLAP):
     return chunks
 
 
-# ============================================================
-# Main
-# ============================================================
 def main():
     print("=" * 60)
     print("STEP 1: Writing RAG documents to disk")

@@ -27,9 +27,7 @@ Return ONLY valid JSON (no markdown, no explanation):
 Be strict. When in doubt, flag for admin review."""
 
 def _extract_json(text: str) -> dict:
-    # حذف markdown fences اگر وجود داشت
     text = re.sub(r"^```(?:json)?|```$", "", text.strip(), flags=re.MULTILINE).strip()
-    # اولین { ... } معتبر
     match = re.search(r"\{.*\}", text, re.DOTALL)
     if not match:
         raise ValueError("No JSON found in model response")
