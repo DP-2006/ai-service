@@ -1,15 +1,17 @@
 from fastapi import APIRouter, Depends
 from pydantic import BaseModel
 from typing import Optional
-
 from app.core.security import verify_webhook
 from app.services.rag_service import index_document, rag_answer
+
+
 
 router = APIRouter(
     prefix="/rag",
     tags=["rag"],
     dependencies=[Depends(verify_webhook)],
 )
+
 
 
 class IndexIn(BaseModel):
