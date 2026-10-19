@@ -30,4 +30,5 @@ settings = Settings(
     MODEL_TEXT="gemma3:27b",
     MODEL_VISION="gemma3:27b",
     MODEL_EMBED="nomic-embed-text",
+    WEBHOOK_SECRET="change-this-to-a-long-random-string-min-32-chars",
 )

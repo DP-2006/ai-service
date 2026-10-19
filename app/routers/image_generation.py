@@ -3,8 +3,6 @@ from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel, Field
 from app.core.security import verify_webhook
 
-
-
 router = APIRouter(
     prefix="/image-generation",
     tags=["image-generation"],
@@ -13,23 +11,20 @@ router = APIRouter(
 
 WORKER_URL = "http://127.0.0.1:9001/image/generate"
 
+
 class ImageGenerationRequest(BaseModel):
     topic: str = Field(min_length=1, max_length=300)
-    context_text: str = Field(min_length=20, max_length=30000)
+    context_text: str = Field(default="", max_length=30000)
+
 
 @router.post("/generate")
 def generate_image(payload: ImageGenerationRequest):
-
     try:
         response = requests.post(
             WORKER_URL,
-            json={
-                "topic": payload.topic,
-                "context_text": payload.context_text,
-            },
+            json={"topic": payload.topic},
             timeout=600,
         )
-
         response.raise_for_status()
         return response.json()
 
