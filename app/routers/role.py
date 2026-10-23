@@ -12,7 +12,6 @@ logger = logging.getLogger(__name__)
 router = APIRouter(prefix="/role", tags=["role"])
 
 
-# ---------- Schemas ----------
 class AnalyzeOneRequest(BaseModel):
     role_text: str
     file_b64: str
@@ -32,7 +31,6 @@ class ClassifyRequest(BaseModel):
     files: List[ClassifyItem]
 
 
-# ---------- Prompts ----------
 ROLE_SYSTEM = """تو یک تحلیل‌گر ارشد سازمانی هستی.
 وظیفه: تشخیص بده آیا یک فایل با نقش سازمانی کاربر «مرتبط» است یا «نامرتبط».
 همچنین یک «دسته‌بندی داینامیک» مناسب برای فایل پیشنهاد بده.

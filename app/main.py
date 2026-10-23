@@ -8,7 +8,7 @@ from app.routers.presentation import router as presentation_router
 from app.routers.image_generation import router as image_generation_router
 from app.routers.presentation import router as presentation_router
 from app.routers.research import router as research_router
-from app.api import psy
+from app.api import psy, file_meta, file_matrix
 
 logging.basicConfig(level=settings.LOG_LEVEL)
 log = logging.getLogger("ai-service")
@@ -26,6 +26,8 @@ app.include_router(file.router)    # unified file analysis
 app.include_router(presentation_router)
 
 app.include_router(psy.router)
+app.include_router(file_meta.router)
+app.include_router(file_matrix.router)
 
 app.include_router(presentation_router)
 app.include_router(research_router)

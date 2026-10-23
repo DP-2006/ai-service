@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 
 
 def extract_urls_content(urls: List[str]) -> dict:
-    """استخراج متن از URLها با httpx + BeautifulSoup."""
     items = []
     for url in urls:
         try:

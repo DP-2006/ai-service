@@ -13,15 +13,15 @@ DEFAULT_MODEL = os.getenv("OLLAMA_MODEL", "gemma3:27b")
 
 class PsyFile(BaseModel):
     name: str
-    kind: str = "unknown"        # text/pdf/image/...
-    text_excerpt: str = ""       # متن استخراجی (حداکثر ۲۰۰۰ کاراکتر)
+    kind: str = "unknown"
+    text_excerpt: str = ""
     top_topic: str = ""
 
 
 class PsyUser(BaseModel):
     user_id: int
     username: str
-    org_roles: list[str] = []    # عنوان فارسی سمت‌ها
+    org_roles: list[str] = []
     files: list[PsyFile] = []
 
 
@@ -35,7 +35,7 @@ class PsyResult(BaseModel):
 
 @router.post("/analyze", response_model=PsyResult)
 async def analyze_psychology(user: PsyUser):
-    """تحلیل روانشناختی کاربر بر اساس فایل‌ها و سمت سازمانی."""
+
     if not user.files:
         return PsyResult(
             risk_score=0.0, anomaly_score=0.0, role_fit_score=0.0,
