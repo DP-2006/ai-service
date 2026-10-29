@@ -3,9 +3,9 @@ ROOT = Path(__file__).parent
 
 FILES = {}
 
-# ============================================================
+
 # 1) Chat Monitor Service - نظارت بر چت + راهنمایی کاربر
-# ============================================================
+
 FILES["app/services/chat_monitor.py"] = '''"""نظارت بر چت + راهنمایی کاربر + تحلیل نقشه کلاهبرداری."""
 import json
 import re
@@ -88,10 +88,8 @@ def suggest_questions(messages: list[dict]) -> str:
     return chat_text(chat_text_joined, system=HINT_SYSTEM)
 '''
 
-# ============================================================
-# 2) Vision Service - تحلیل تصاویر (تفکیک‌شده)
-# ============================================================
-FILES["app/services/vision_service.py"] = '''"""تحلیل تخصصی تصاویر: برهنگی، مواد مخدر، اسناد محرمانه، فروش."""
+\# 2) Vision Service - تحلیل تصاویر (تفکیک‌شده)
+\FILES["app/services/vision_service.py"] = '''"""تحلیل تخصصی تصاویر: برهنگی، مواد مخدر، اسناد محرمانه، فروش."""
 import json
 import re
 
@@ -159,9 +157,7 @@ def analyze_image(image_b64: str, context: str = "") -> dict:
         return _fallback(f"Parse error: {e}")
 '''
 
-# ============================================================
 # 3) Alert Service - ارسال هشدار به ادمین (Webhook خروجی)
-# ============================================================
 FILES["app/services/alert_service.py"] = '''"""ارسال هشدار به ادمین از طریق webhook خروجی (Django)."""
 import hmac
 import hashlib
@@ -224,9 +220,7 @@ async def send_alert_to_admin(payload: dict) -> bool:
         return False
 '''
 
-# ============================================================
 # 4) Router: chat
-# ============================================================
 FILES["app/routers/chat.py"] = '''from fastapi import APIRouter, Depends
 from pydantic import BaseModel
 from typing import Optional, List
@@ -282,9 +276,7 @@ def hint_ep(payload: HintIn):
     return {"hint": text}
 '''
 
-# ============================================================
 # 5) Router: vision (اختصاصی تصویر)
-# ============================================================
 FILES["app/routers/vision.py"] = '''from fastapi import APIRouter, Depends
 from pydantic import BaseModel
 from typing import Optional
@@ -325,9 +317,7 @@ async def analyze_ep(payload: ImageIn):
     return result
 '''
 
-# ============================================================
 # 6) به‌روزرسانی main.py
-# ============================================================
 FILES["app/main.py"] = '''import logging
 
 from fastapi import FastAPI
@@ -354,9 +344,7 @@ async def _startup():
     log.info(f"Chroma: {settings.CHROMA_HOST}:{settings.CHROMA_PORT}")
 '''
 
-# ============================================================
 # 7) به‌روزرسانی config.py - اضافه شدن ADMIN_ALERT_URL
-# ============================================================
 FILES["app/core/config.py"] = '''from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -386,9 +374,7 @@ class Settings(BaseSettings):
 settings = Settings()
 '''
 
-# ============================================================
 # 8) .env به‌روزرسانی‌شده
-# ============================================================
 FILES[".env"] = """OLLAMA_HOST=http://localhost:11434
 MODEL_TEXT=qwen2.5-coder:7b
 MODEL_VISION=qwen2.5vl:7b
